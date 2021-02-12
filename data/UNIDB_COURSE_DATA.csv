@@ -1,0 +1,2676 @@
+Course Code;Course Name;Credits
+CS 101;Algorithms and Programming I;4
+CS 102;Algorithms and Programming II;4
+CS 115;Introduction to Programming in Python;4
+CS 121;Introduction to Computer Tools;3
+CS 123;Introduction to Computing and Programming;3
+CS 153;Introduction to Computer Graphics;3
+CS 154;Introduction to Web Design;3
+CS 155;Interactive Media Design and Development;3
+CS 201;Fundamental Structures of Computer Science I;3
+CS 202;Fundamental Structures of Computer Science II;3
+CS 223;Digital Design;4
+CS 224;Computer Organization;4
+CS 281;Computers and Data Organization;3
+CS 299;Summer Training I;0
+CS 315;Programming Languages;3
+CS 319;Object-Oriented Software Engineering;4
+CS 342;Operating Systems;4
+CS 353;Database Systems;3
+CS 399;Summer Training II;0
+CS 411;Software Architecture Design;3
+CS 413;Software Engineering Project Management;3
+CS 415;Software Product Line Engineering;3
+CS 421;Computer Networks;3
+CS 423;Computer Architecture;3
+CS 425;Algorithms for Web-Scale Data;3
+CS 426;Parallel Computing;3
+CS 431;Embedded Systems;3
+CS 432;Machine-to-Machine (M2M) Systems;3
+CS 442;Distributed Systems and Algorithms;3
+CS 443;Cloud Computing and Mobile Applications;3
+CS 453;Application Lifecycle Management;3
+CS 458;Software Verification and Validation;3
+CS 461;Artificial Intelligence;3
+CS 464;Introduction to Machine Learning;3
+CS 465;Computer Graphics I;3
+CS 471;Numerical Methods;3
+CS 473;Algorithms I;3
+CS 476;Automata Theory and Formal Languages;3
+CS 479;Introduction to Cyber Security;3
+CS 481;Bioinformatics Algorithms;3
+CS 484;Image Analysis;3
+CS 490;Introduction to Research in Computer Engineering and Science;3
+CS 491;Senior Design Project I;3
+CS 492;Senior Design Project II;3
+CS 498;Individual Study;4
+CS 499;Individual Study;3
+CS 502;Algorithms II;3
+CS 513;Implications of the Internet;3
+CS 515;Mobile and Wireless Networking;3
+CS 527;Advances in Switching Networks;3
+CS 528;Advances in Switching Networks II;3
+CS 533;Information Retrieval Systems;3
+CS 541;Chip Multiprocessors;3
+CS 545;Fundamentals of Stream Processing;3
+CS 550;Machine Learning;3
+CS 551;Pattern Recognition;3
+CS 553;Intelligent Data Analysis;3
+CS 557;Computational Systems Biology;3
+CS 558;Data Mining;3
+CS 559;Deep Learning;3
+CS 564;Computational Geometry;3
+CS 565;Application of Computer Graphics;3
+CS 568;Advanced Topics in Computer Graphics;3
+CS 573;Algorithms I;3
+CS 577;Data Privacy;3
+CS 578;Natural Language Processing;3
+CS 579;Biometrics;3
+CS 590;Research Seminar I;0
+CS 599;Master's Thesis;0
+CS 612;Algorithms for Electronic Design Automation;3
+CS 681;Advanced Topics in Computational Biology;3
+CS 683;Cloud Computing;3
+CS 690;Research Seminar II;0
+CS 699;Ph.D. Dissertation;0
+EEE 102;Introduction to Digital Circuit Design;4
+EEE 202;Circuit Theory;4
+EEE 211;Analog Electronics;4
+EEE 212;Microprocessors;4
+EEE 299;Summer Training I;0
+EEE 313;Electronic Circuit Design;4
+EEE 314;Digital Electronics;4
+EEE 321;Signals and Systems;4
+EEE 342;Feedback Control Systems;3
+EEE 351;Engineering Electromagnetics;3
+EEE 352;Applied Electromagnetics;3
+EEE 391;Basics of Signals and Systems;3
+EEE 399;Summer Training II;0
+EEE 411;Telecommunication Electronics;4
+EEE 412;Microwave Electronics;4
+EEE 414;Introduction to CMOS VLSI Design;3
+EEE 415;Analog CMOS Integrated Circuits;3
+EEE 418;Principles of Electronic Devices;4
+EEE 419;Power Electronics;3
+EEE 424;Digital Signal Processing;4
+EEE 428;Optics;4
+EEE 429;Photonics;3
+EEE 431;Telecommunications I;3
+EEE 432;Telecommunications II;3
+EEE 436;Wireless Networking Technologies and Applications;3
+EEE 440;Advanced Mathematics for Signals, Systems, Control and Communications;3
+EEE 442;Nonlinear Systems;3
+EEE 443;Neural Networks;3
+EEE 444;Robust Feedback Theory;3
+EEE 446;Control and Optimization of Stochastic Systems;3
+EEE 447;Introduction to Robotics;3
+EEE 451;Microwave Engineering;4
+EEE 452;Antenna Engineering;4
+EEE 455;Power System Analysis and Design;3
+EEE 473;Medical Imaging;3
+EEE 474;Foundations of Magnetic Resonance Imaging;3
+EEE 475;Medical Image Reconstruction and Processing;3
+EEE 480;Advanced Optoelectronics: Innovative Design;3
+EEE 481;Biomedical Signals and Instrumentation;3
+EEE 482;Computational Neuroscience;3
+EEE 485;Statistical Learning and Data Analytics;3
+EEE 491;Electrical and Electronics Engineering Design I;3
+EEE 492;Senior Project;3
+EEE 493;Industrial Design Project I;3
+EEE 494;Industrial Design Project II;3
+EEE 495;Electrical and Electronics Engineering Design II;3
+EEE 497;Digital Signal Processing Laboratory;3
+EEE 501;Linear System Theory;3
+EEE 511;Telecommunication Electronics;3
+EEE 512;Microwave Electronics;3
+EEE 514;Introduction to CMOS VLSI Design;3
+EEE 515;Analog CMOS Integrated Circuits;3
+EEE 518;Principles of Electronic Devices;3
+EEE 519;Power Electronics;3
+EEE 520;Multirate Signal Processing and Wavelet Theory;3
+EEE 521;Introduction to Radar Signal Processing;3
+EEE 522;Optical Information Processing;3
+EEE 523;Speech Processing;3
+EEE 525;Advanced Signal Processing;3
+EEE 526;Digital Image Processing;3
+EEE 527;Digital Coding of Waveforms;3
+EEE 528;Optics;3
+EEE 529;Photonics;3
+EEE 530;Digital Communications Theory;3
+EEE 533;Random Processes;3
+EEE 534;Wireless Communications;3
+EEE 536;Advanced Computer Networks;3
+EEE 538;Communication Network Analysis;3
+EEE 539;Detection and Estimation Theory;3
+EEE 540;Advanced Mathematics for Signals, Systems, Control and Communications;3
+EEE 542;Nonlinear Systems;3
+EEE 543;Neural Networks;3
+EEE 544;Robust Feedback Theory;3
+EEE 546;Control and Optimization of Stochastic Systems;3
+EEE 547;Introduction to Robotics;3
+EEE 549;Nanoscale Fabrication Technologies for Semiconductors;3
+EEE 550;Nanoelectronic Devices: Physics and Technology;3
+EEE 551;Microwave Engineering;3
+EEE 552;Antenna Engineering;3
+EEE 554;High Frequency Techniques in Electromagnetics;3
+EEE 556;Computational Methods in Electromagnetics;3
+EEE 557;Acoustic Waves and Devices;3
+EEE 558;Electroacoustic Transduction;3
+EEE 560;Nanoengineering and Nanodevices;3
+EEE 573;Medical Imaging;3
+EEE 574;Foundations of Magnetic Resonance Imaging;3
+EEE 575;Medical Image Reconstruction and Processing;3
+EEE 580;Advanced Optoelectronics: Innovative Design;3
+EEE 581;Biomedical Signals and Instrumentation;3
+EEE 582;Computational Neuroscience;3
+EEE 585;Statistical Learning and Data Analytics;3
+EEE 591;Graduate Seminar I;0
+EEE 592;Graduate Seminar II;0
+EEE 596;Graduate Research Project in Telecommunications and Networking;0
+EEE 599;Master's Thesis;0
+EEE 603;Advanced Electromagnetic Theory I;3
+EEE 604;Advanced Electromagnetic Theory II;3
+EEE 633;Coding Theory;3
+EEE 634;Information Theory;3
+EEE 644;Advanced Robust Control Theory;3
+EEE 699;Ph.D. Dissertation;0
+IE 102;A Process Outlook for Industrial Engineering;3
+IE 202;Introduction to Modeling and Optimization;3
+IE 262;Manufacturing Processes;4
+IE 271;Operations Analysis and Design;3
+IE 272;Manufacturing Processes and Operations Analysis;4
+IE 299;Summer Training I;0
+IE 303;Modeling and Methods in Optimization;3
+IE 324;Simulation;4
+IE 325;Stochastic Models;3
+IE 342;Engineering Economic Analysis;3
+IE 375;Production Planning;3
+IE 376;Production Information Systems;3
+IE 380;Quality Assurance and Reliability;3
+IE 399;Summer Training II;0
+IE 400;Principles of Engineering Management;3
+IE 421;Introduction to Stochastic Processes;3
+IE 423;Forecasting Methods and Applications;3
+IE 428;Project Scheduling;3
+IE 432;Quantitative Risk Management;3
+IE 440;Introduction to Financial Engineering;3
+IE 443;Multi-Objective Decision Analysis;3
+IE 444;Operations Research in Finance;3
+IE 448;Financial Issues in Engineering Projects;3
+IE 451;Applied Data Analysis;3
+IE 453;Energy Systems Planning;3
+IE 455;Service Systems;3
+IE 457;Sustainable Operations;3
+IE 460;Quantitative Models in Supply Chain Management;3
+IE 462;Introduction to Advanced Manufacturing Technologies;3
+IE 463;Operations Scheduling;3
+IE 464;Inventory Planning Models;3
+IE 467;Emerging Trends in Manufacturing;3
+IE 468;Pricing and Revenue Optimization;3
+IE 469;Industrial Applications of Operations Research;3
+IE 477;Production Systems Design-Synthesis;3
+IE 478;Production Systems Design-Practice;3
+IE 479;Distribution Logistics;3
+IE 482;Humanitarian Logistics;3
+IE 485;Decision Making in Health Care;3
+IE 490;Introduction to Research in IE and OR;3
+IE 491;Introduction to Research in IE and OR II;3
+IE 496;Seminar in Production Systems;0
+IE 497;Individual Study;4
+IE 499;Individual Study;3
+IE 500;Mathematics of Operations Research;3
+IE 505;Mathematical Programming;3
+IE 513;Linear Programming;3
+IE 514;Network Flows;3
+IE 515;Convex Analysis;3
+IE 518;Discrete Optimization;3
+IE 521;Stochastic Processes;3
+IE 522;Queuing Systems;3
+IE 523;Probabilistic Analysis;3
+IE 528;Dynamic Programming;3
+IE 530;Advanced Logistics Modeling and Optimization;3
+IE 535;Stochastic and Risk-Sensitive Optimization;3
+IE 536;Modeling and Optimization of Energy Systems;3
+IE 540;Introduction to Financial Engineering;3
+IE 543;Multiple Criteria Decision Making;3
+IE 546;Introduction to Continuous time Finance;3
+IE 551;Applied Statistics;3
+IE 553;Applied Statistical Modeling and Data Analysis;3
+IE 561;Manufacturing Systems;3
+IE 568;Theory of Pricing and Revenue Management;3
+IE 571;Analytical Models for Supply Chain Management;3
+IE 573;Theory of Machine Scheduling;3
+IE 586;Computational Optimization;3
+IE 590;Research Topics in IE and OR;0
+IE 599;Master's Thesis;0
+IE 614;Nonlinear Programming;3
+IE 690;Advanced Research Topics in IE&OR;0
+IE 691;Research Practice;0
+IE 699;Ph.D. Dissertation;0
+ME 101;Fundamentals of Mechanical Engineering;2
+ME 102;Introduction to Systems Engineering;3
+ME 211;Thermo-Fluids Engineering I;4
+ME 212;Thermo-Fluids Engineering II;4
+ME 231;Mechanics and Materials I;4
+ME 232;Mechanics and Materials II;4
+ME 299;Summer Practice I;0
+ME 341;Dynamics and Control I;4
+ME 342;Dynamics and Control II;4
+ME 343;Mechanical Vibrations;3
+ME 361;Numerical Methods for Engineers;3
+ME 362;Finite Elements;3
+ME 371;Measurement and Instrumentation;3
+ME 381;Design and Manufacturing;3
+ME 384;Mechatronic Systems;3
+ME 399;Summer Practice II;0
+ME 401;Acoustics and Noise Control;3
+ME 412;Introduction to Computational Fluid Dynamics;3
+ME 430;Heat Exchanger Design;3
+ME 431;Industrial Fluid Power;3
+ME 432;Applied Thermodynamics;3
+ME 436;Energy Conversion Systems;3
+ME 440;Automotive Engineering;3
+ME 442;Machinery Dynamics;3
+ME 443;Machine Elements;3
+ME 446;Applications of Solid Mechanics;3
+ME 453;Principles of Turbomachinery;3
+ME 481;Mechanical Engineering Design I;3
+ME 482;Mechanical Engineering Design II;3
+ME 490;Undergraduate Research in ME;3
+ME 499;Individual Study;3
+ME 500;Integrated Product Development;3
+ME 501;Mathematical Techniques in Mechanical Engineering;3
+ME 503;Numerical Methods in Mechanical Engineering;3
+ME 511;Fluid Mechanics;3
+ME 516;Tribology : Friction, Lubrication and Wear;3
+ME 523;Molecular Simulation of Materials;3
+ME 525;Introduction to Nanomechanics;3
+ME 543;Sound and Vibration;3
+ME 550;Continuum Mechanics;3
+ME 552;The Finite Element Method;3
+ME 554;Mechanics of Composite Materials;3
+ME 555;Cellular Biomechanics;3
+ME 557;Metal Cutting Principles;3
+ME 558;Impact Mechanics;3
+ME 565;Dynamics;3
+ME 570;Dynamics of Aerospace Vehicles;3
+ME 571;Advanced System Modeling;3
+ME 575;Micro/Nano Robotics;3
+ME 576;Linear Control System Design;3
+ME 578;Vehicle Control Systems;3
+ME 579;Adaptive Control Systems;3
+ME 580;Introduction to MEMS and Micro Systems;3
+ME 582;Fundamentals of Design for Reliability;3
+ME 590;Mechanical Engineering Seminar;0
+ME 599;Master's Thesis;0
+ME 615;Microfluidics;3
+ME 631;Conductive Heat Transfer;3
+ME 657;Nano/Micro Manufacturing;3
+ME 690;Mechanical Engineering Seminar;0
+ME 699;Ph.D. Dissertation;0
+ARCH 201;Architectural Design Studio I;6
+ARCH 202;Architectural Design Studio II;6
+ARCH 231;Statics and Strength of Materials;3
+ARCH 251;Architectural Building Systems;3
+ARCH 252;Construction and Materials;4
+ARCH 290;Summer Practice I;0
+ARCH 301;Architectural Design Studio III;6
+ARCH 302;Architectural Design Studio IV;6
+ARCH 315;Computerized Presentation Techniques;3
+ARCH 317;Parametric Design Studio;3
+ARCH 321;Architecture and Society;3
+ARCH 331;Structural Design I;3
+ARCH 332;Structural Design II;3
+ARCH 333;Form and Structure;3
+ARCH 341;Architectural Lighting and Acoustics;3
+ARCH 342;Environmental Technology;3
+ARCH 351;Urban Metabolism: tools from the social sciences for architects and designers;3
+ARCH 390;Summer Practice II;0
+ARCH 401;Architectural Design Studio V;6
+ARCH 402;Architectural Design Studio VI;6
+ARCH 411;Conservation of Historical Environments;3
+ARCH 417;Advanced Visualization Studio;3
+ARCH 418;Professional Practice;3
+ARCH 440;Special Topics in Architectural Design;3
+ARCH 462;Medieval Architecture in the Eastern Mediterranean;3
+ARCH 463;Modern Turkish Architecture;3
+ARCH 465;Contemporary Architecture and Theory;3
+ARCH 466;Architectural Theory and Criticism;3
+ARCH 496;Individual Study;6
+ARCH 497;Individual Study;2
+ARCH 498;Individual Study;4
+ARCH 499;Individual Study;3
+ARCH 513;Theory and Methodology;3
+ARCH 514;Architectural Readings;3
+ARCH 515;Topics in Architectural Technology;3
+ARCH 516;Computational Design Technologies;3
+ARCH 517;Advanced Visualization Studio;3
+ARCH 550;Current Issues in Architectural Design;3
+ARCH 563;Modern Turkish Architecture;3
+ARCH 564;Space and Culture;3
+ARCH 565;Contemporary Architecture and Theory;3
+ARCH 566;Architectural Theory and Criticism;3
+ARCH 590;Graduate Seminar;0
+ARCH 599;Master's Thesis;0
+COMD 101;Visual Communication Design I;6
+COMD 102;Visual Communication Design II;6
+COMD 203;Media Studies I;3
+COMD 204;Media Studies II;3
+COMD 207;History of Film and Media;3
+COMD 210;Introduction to Screenwriting;3
+COMD 212;Principles of Visual Communication Design;3
+COMD 281;Media and Design Studio I;4
+COMD 282;Media and Design Studio II;4
+COMD 290;Summer Practice I;0
+COMD 305;Digital Video Production I;3
+COMD 306;Digital Video Production II;3
+COMD 308;Multi-Camera Production and Live-Recording;4
+COMD 310;Advanced Screenwriting;3
+COMD 321;Analysis of Moving Image;3
+COMD 322;Film Theory and Criticism;3
+COMD 331;News Reporting and Writing;3
+COMD 333;News and Society;3
+COMD 335;Science Writing and Journalism;3
+COMD 341;Media and Society;3
+COMD 342;Popular Culture;3
+COMD 346;Introduction to Advertising;3
+COMD 350;Radio Programming and Production;3
+COMD 354;Game Design and Research;3
+COMD 355;Social Media Marketing;3
+COMD 356;Digital Culture;3
+COMD 357;Multimedia Journalism;3
+COMD 361;Sound Design I;3
+COMD 362;Sound Design II;3
+COMD 363;Music and Media;3
+COMD 364;Video Production for Non-majors;3
+COMD 365;Character Animation and Sequential Storytelling;3
+COMD 381;Media and Design Studio III;4
+COMD 382;Media and Design Studio IV;4
+COMD 390;Summer Practice II;0
+COMD 409;Advanced Broadcast Studio;3
+COMD 422;Advanced Issues in Communication Studies;3
+COMD 424;Media Theory and Methods;3
+COMD 433;Gender and Media;3
+COMD 434;Special Topics in Journalism;3
+COMD 435;Documentary;3
+COMD 436;Television Genres;3
+COMD 437;Post-production Techniques;3
+COMD 438;Adaptation in Media;3
+COMD 439;International Public Relations;3
+COMD 442;Directing Actors;3
+COMD 451;Creative Project Design and Development;3
+COMD 461;Public Relations and Communication Campaigns;3
+COMD 462;Special Topics in Advertising;3
+COMD 471;Media Ethics;3
+COMD 481;Visual Communication Project I;4
+COMD 482;Visual Communication Project II;4
+COMD 511;Research Methods;3
+COMD 512;Foundations in Visual Studies;3
+COMD 513;Film and Genre;3
+COMD 514;Identity Space and Image;3
+COMD 515;Media Reception;3
+COMD 516;Turkish Cinema and Modernity;3
+COMD 517;Topics in Media Studies;3
+COMD 518;New Media and Film Cultures;3
+COMD 520;National and Transnational Cinemas;3
+COMD 521;Body Movement and Vision in Immersive and Interactive Media;3
+COMD 523;Media and Everyday Life;3
+COMD 524;Essay Film;3
+COMD 525;Curatorial Practices in Contemporary Art;3
+COMD 527;Creative Sound Design and Synthesis;3
+COMD 531;Science and Media;3
+COMD 538;Adaptation in Media;3
+COMD 541;Writing for Media;3
+COMD 566;Documentary Form and Practice;3
+COMD 590;Seminar in Research Topics;0
+COMD 599;Master's Thesis;0
+FA 101;Basic Design I;6
+FA 102;Basic Design II;6
+FA 103;Drawing I;3
+FA 104;Drawing II;3
+FA 105;Foundation Studio I;6
+FA 106;Foundation Studio II;6
+FA 107;Drawing and Visual Expressions;3
+FA 131;Technical Drawing;3
+FA 132;Design Graphics;3
+FA 171;Introduction to Art and Culture I;3
+FA 172;Introduction to Art and Culture II;3
+FA 201;Art Studio I;6
+FA 202;Art Studio II;6
+FA 203;Drawing III;3
+FA 204;Drawing IV;3
+FA 207;Artistic Anatomy;3
+FA 208;Anatomical Figure Drawing;3
+FA 211;Introduction to Painting I;3
+FA 212;Introduction to Painting II;3
+FA 213;Introduction to Printmaking I;3
+FA 214;Introduction to Printmaking II;3
+FA 215;Introduction to Sculpture I;3
+FA 217;Introduction to Ceramics I;3
+FA 219;Ancient Techniques and New Technology in Mosaic;3
+FA 223;Visual Perception and Color;3
+FA 262;Fine Arts Seminar;3
+FA 271;History of Art I;3
+FA 272;History of Art II;3
+FA 290;Summer Practice I;0
+FA 301;Art Studio III;6
+FA 302;Art Studio IV;6
+FA 304;Special Problems in Drawing;3
+FA 361;Philosophy of Art I;3
+FA 390;Summer Practice II;0
+FA 401;Art Studio V;6
+FA 402;Art Studio VI - Degree Project;9
+FA 421;Analysis of Art Work I;3
+FA 422;Analysis of Art Work II;3
+FA 462;Senior Seminar;3
+GRA 131;Design Tools and Techniques;3
+GRA 132;Lettering and Introduction to Typography;3
+GRA 201;Graphic Design I;6
+GRA 202;Graphic Design II;6
+GRA 205;Rendering for Graphic Design I;3
+GRA 207;Conceptual Design;3
+GRA 209;Graphic Design for Non-Majors;3
+GRA 210;Web Design;3
+GRA 211;Typography I;3
+GRA 212;Typography II;3
+GRA 215;Computer Graphics for Film and Television I;3
+GRA 216;Computer Graphics for Film and Television II;3
+GRA 217;Motion Graphics;3
+GRA 218;Essentials of Photography;3
+GRA 219;Advanced Photography;3
+GRA 223;Photographic Image Processing I;3
+GRA 224;Photographic Image Processing II;3
+GRA 225;Introduction to Visual Techniques;3
+GRA 290;Summer Practice I;0
+GRA 301;Graphic Design III;6
+GRA 302;Graphic Design IV;6
+GRA 313;Typographic Design and Theories;3
+GRA 315;Information Design and Data Visualization;3
+GRA 316;Interface Design Studio;3
+GRA 317;Motion Design Studio;3
+GRA 323;Logos, Symbols and Signs;3
+GRA 324;Photographic Practice;3
+GRA 333;Packaging;3
+GRA 335;Computational Design Methods;3
+GRA 337;Visual Narrative;3
+GRA 341;History of Graphic Art;3
+GRA 344;Psychology of Advertisement;3
+GRA 347;Design Issues;3
+GRA 351;Introduction to Video Production Techniques I;3
+GRA 390;Summer Practice II;0
+GRA 401;Graphic Design V;6
+GRA 402;Graphic Design VI;8
+GRA 421;Illustration I;3
+GRA 422;Illustration II;3
+GRA 423;Professional Practice;3
+GRA 499;Individual Study;3
+GRA 501;Graduate Studio I;3
+GRA 502;Graduate Studio II;3
+GRA 503;Illustration I;3
+GRA 504;Illustration II;3
+GRA 511;Typography I;3
+GRA 512;Typography II;3
+GRA 517;Image Time and Motion I;3
+GRA 521;Animation I;3
+GRA 541;Graphic and Visual Representation;3
+GRA 542;Mass Media and Visual Technologies;3
+GRA 590;Seminar in Research Topics;0
+GRA 599;Master's Thesis;0
+IAED 201;Interior Design Studio I;6
+IAED 202;Interior Design Studio II;6
+IAED 211;Media for Representation;3
+IAED 221;Human Factors;3
+IAED 231;Advanced Design Graphics;3
+IAED 244;Lighting Design;3
+IAED 251;Construction and Materials I;4
+IAED 252;Construction and Materials II;4
+IAED 290;Summer Practice I;0
+IAED 301;Interior Design Studio III;6
+IAED 302;Interior Design Studio IV;6
+IAED 315;Computerized Presentation Techniques;3
+IAED 322;People and Environment;3
+IAED 341;Architectural Acoustics and Fire Safety;3
+IAED 342;Sustainable Design for Interiors;3
+IAED 351;Detailing Studio;3
+IAED 365;Places/Memories;3
+IAED 381;Product Detailing;3
+IAED 390;Summer Practice II;0
+IAED 391;Special Topics in Interior Design I;3
+IAED 392;Special Topics in Interior Design II;3
+IAED 393;Visionary and Future Environments;3
+IAED 394;TV Set Design;3
+IAED 396;Architectural Photography;3
+IAED 397;Color Theory and Applications;3
+IAED 401;Interior Design Studio V;6
+IAED 402;Interior Design Studio VI;6
+IAED 415;Advanced Detailing Studio;3
+IAED 418;Interior Design: Professional Practice;3
+IAED 426;Leisure Practices and Spaces;3
+IAED 461;Environmental Management and Sustainable Development;3
+IAED 463;History of Furniture;3
+IAED 464;Issues and Themes in Industrial Design;3
+IAED 491;Current Issues in Interior Design I;3
+IAED 492;Current Issues in Interior Design II;3
+IAED 501;Graduate Studio I;3
+IAED 502;Graduate Studio II;3
+IAED 511;Research Methods I;3
+IAED 512;Statistical Analysis;3
+IAED 514;Research Methods II;3
+IAED 524;Construction of Design as a Social Practice;3
+IAED 543;Environmental Analysis I;3
+IAED 544;Environmental Analysis II;3
+IAED 571;Lighting and Color;3
+IAED 574;Art, Science and Technology;3
+IAED 576;Computers in Design and Architecture;3
+IAED 583;Design Principles and Theories;3
+IAED 585;Design Requirements;3
+IAED 590;Seminar in Research Topics;0
+IAED 599;Master's Thesis;0
+IAED 690;Seminar in Advanced Research Topics;0
+IAED 699;Ph.D. Dissertation;0
+LAUD 201;Design Studio I:Site Design;6
+LAUD 202;Design Studio II: Housing;6
+LAUD 221;Introduction to Urban Concepts;3
+LAUD 232;Landscape Representation;3
+LAUD 241;Landscape Plants;3
+LAUD 242;Flora of Turkey;3
+LAUD 251;Introduction to Landscape Theory;3
+LAUD 252;Site Design Techniques;3
+LAUD 290;Summer Practice II;0
+LAUD 301;Design Studio III: Small Town;6
+LAUD 302;Design Studio IV: City Center;6
+LAUD 324;Morphology and Topology of Urban Spaces;3
+LAUD 342;Planting Design Studio;3
+LAUD 357;Landscape Construction: Techniques, Materials and Structures;3
+LAUD 362;Making of Urban Landscape;3
+LAUD 371;Analysis of Urban Environment I;3
+LAUD 372;Analysis of Urban Environment;3
+LAUD 390;Summer Practice III;0
+LAUD 401;Senior Design Studio I: Open Space Network;6
+LAUD 402;Senior Design Studio II: Graduation Projects;6
+LAUD 404;Senior Design Research;3
+LAUD 417;Contract Documents;3
+LAUD 418;Professional Practice;3
+LAUD 421;Realization of Urban Projects;3
+LAUD 461;Occupancy in Urban Areas;3
+LAUD 466;Designing the Sustainable City;3
+LAUD 471;Urban Sociology;3
+LAUD 472;Recent Issues in Human Geography;3
+LAUD 473;Experiencing the City;3
+LAUD 474;Space, Culture and Identity;3
+LAUD 475;Cinema and Space;3
+LAUD 476;Visual Politics of Space;3
+LAUD 481;Landscape Ecology Studio;3
+LAUD 483;Environment Philosophy and Ethics;3
+ADA 131;Architectural Drawing;3
+ADA 134;Designing with Digital Media;3
+ADA 263;History of Built Environment I;3
+ADA 264;History of Built Environment II;3
+ADA 302;Design Studio IV: Collaboration;6
+ADA 412;Contemporary Problems in Urban Sustainability;3
+EMBA 502;EMBA Project;0
+EMBA 514;Foundations of Organizational Management I;2
+EMBA 515;Foundations of Organizational Management II;3
+EMBA 516;Competitive Strategy;5
+EMBA 521;Business Law;3
+EMBA 525;Managing Systems Effectively;3
+EMBA 534;Quantitative Methods;2
+EMBA 535;Financial Reporting;3
+EMBA 544;Foundations of Financial Management I;2
+EMBA 545;Foundations of Financial Management II;3
+EMBA 546;Strategic Financial Management;3
+EMBA 547;Decision Analysis;2
+EMBA 554;Foundations of Marketing Management I;2
+EMBA 555;Foundations of Marketing Management II;3
+EMBA 556;Managing Markets, Growth and Change;5
+MAN 101;Introduction to Business I;3
+MAN 102;Introduction to Business II;3
+MAN 211;Principles of Accounting I;3
+MAN 213;Principles of Financial Accounting;4
+MAN 216;Elements of Finance;3
+MAN 256;Introduction to Management Science;3
+MAN 262;Organizational Behavior;3
+MAN 302;Business Forecasting;3
+MAN 303;Business Ethics and Social Responsibility;3
+MAN 306;Market Research;3
+MAN 307;Financial Management;3
+MAN 312;Managerial Accounting;3
+MAN 321;Corporate Finance;3
+MAN 322;Money and Banking;3
+MAN 333;Marketing Principles;3
+MAN 335;Fundamentals of Marketing;3
+MAN 341;Production Management;3
+MAN 361;Organization Theory;3
+MAN 399;Summer Practice;0
+MAN 401;Managerial Economics;3
+MAN 403;International Business;3
+MAN 404;Investment Analysis;3
+MAN 406;Business Strategy;3
+MAN 407;Business Plan Development;3
+MAN 410;Innovation Management;3
+MAN 414;Auditing;3
+MAN 416;Financial Statement Analysis;3
+MAN 419;Marketing Strategy and Innovation;3
+MAN 421;Capital Markets and Institutions;3
+MAN 422;International Finance;3
+MAN 424;Risk Management;3
+MAN 430;Anthropological Marketing;3
+MAN 432;Consumer Behavior;3
+MAN 433;Global Marketing and Emerging Markets;3
+MAN 434;Integrated Marketing Communications;3
+MAN 435;Financial Services Marketing;3
+MAN 436;Services Marketing;3
+MAN 437;Retail Management;3
+MAN 439;New Product Development;3
+MAN 440;Revenue Management;3
+MAN 447;Project Management;3
+MAN 451;Decision Analysis;3
+MAN 462;Human Resources Management;3
+MAN 467;Cross-Cultural Management;3
+MAN 474;European Union and Turkey: Trade and Policies;3
+MAN 483;Entrepreneurial Management;3
+MAN 485;Real Estate Finance;3
+MAN 495;Business Capstone Project;4
+MAN 498;Individual Study;3
+MAN 499;Fundamentals of Starting a New Business;1
+MAN 509;International Business;3
+MAN 525;Financial Economics;3
+MAN 555;Probability and Statistics;3
+MAN 590;Pro-Thesis Seminar;0
+MAN 593;Research Paper I;0
+MAN 594;Research Paper II;0
+MAN 599;Master's Thesis Project;0
+MAN 604;Quantitative Business Research;3
+MAN 605;Qualitative Research;3
+MAN 607;Philosophy and Epistemology of Scientific Inquiry;3
+MAN 627;Seminar in Corporate Finance;3
+MAN 628;Advanced Empirical Finance;3
+MAN 629;Seminar in Financial Intermediation;3
+MAN 631;Marketing Theory;3
+MAN 633;Seminar in Marketing Strategy;3
+MAN 634;Consumer Behavior Theory I;3
+MAN 636;Consumer Behavior Theory II;3
+MAN 639;Special Topics in Marketing I;3
+MAN 640;Special Topics in Marketing II;3
+MAN 656;Advanced Multivariate Statistics;3
+MAN 690;Pre-Thesis Seminar;0
+MAN 699;Ph.D. Dissertation;0
+MBA 500;Bilcamp;2
+MBA 503;Business Economics;3
+MBA 510;Advanced Competitive Strategy;3
+MBA 511;Accounting;3
+MBA 512;Managerial Accounting;3
+MBA 519;Financial Institution and Markets;3
+MBA 522;Corporate Finance;3
+MBA 524;Investment Analysis;3
+MBA 526;International Finance;3
+MBA 532;Marketing Management;3
+MBA 533;Marketing Strategy;3
+MBA 535;Consumer Behavior I;3
+MBA 539;Services Marketing;3
+MBA 542;Production and Operations Management;3
+MBA 544;Revenue Management;3
+MBA 553;Data Models and Decisions;3
+MBA 561;Managing People and Organizations;3
+MBA 568;Entrepreneurship and Innovation Management;3
+MBA 582;New Product Design and Marketing;3
+MBA 588;Capital Markets and Institutions;3
+MBA 591;Business Strategy;4
+MBA 592;Business Practice Project;4
+MBA 596;Technology Management;3
+MBA 602;MBA Project;0
+MBA 632;Digital Marketing and Advertising;3
+MBA 634;Strategic Behavior and Competition;3
+MBA 672;Leadership and Negotiation for International Managers;3
+ECON 101;Introduction to Economics I;4
+ECON 102;Introduction to Economics II;4
+ECON 103;Principles of Economics;3
+ECON 105;Principles of Economics I;3
+ECON 106;Principles of Economics II;3
+ECON 107;Principles of Microeconomics;3
+ECON 108;Principles of Macroeconomics;3
+ECON 203;Microeconomic Theory I;3
+ECON 204;Microeconomic Theory II;3
+ECON 205;Macroeconomic Theory I;3
+ECON 206;Macroeconomic Theory II;3
+ECON 207;Economics Theory for Engineers;3
+ECON 221;Introduction to Probability and Statistics I;3
+ECON 222;Introduction to Probability and Statistics II;3
+ECON 225;Mathematics for Economists;3
+ECON 301;Econometrics I;4
+ECON 302;Econometrics II;3
+ECON 317;Energy Economics;3
+ECON 318;Seminar in Energy Economics;3
+ECON 322;Monetary Economics;3
+ECON 323;Economics of Monetary Union;3
+ECON 331;International Trade;3
+ECON 332;International Economics II;3
+ECON 351;Fiscal Economics I;3
+ECON 363;History of Economic Thought;3
+ECON 399;Summer Training;0
+ECON 400;Analytical Writing for Economist;3
+ECON 401;Seminar in Microeconomic Policy;3
+ECON 402;Seminar in Macroeconomic Policy;3
+ECON 403;Issues in Public Finance;3
+ECON 409;Contemporary Issues in Turkish Economy I;3
+ECON 410;Contemporary Issues in Turkish Economy II;3
+ECON 417;Environmental Economics I;3
+ECON 426;Applied Econometrics;3
+ECON 428;Public Sector Governance;3
+ECON 432;Turkish and World Economy in the 20th Century;3
+ECON 433;Industrial Economics I;3
+ECON 439;Game Theory I;3
+ECON 443;Advanced Economic Theory;3
+ECON 444;Bargaining Theory and Experiments in Economics;3
+ECON 448;Economics of Information;3
+ECON 453;Theories of Economic Growth and Development I;3
+ECON 454;Theories of Economic Growth and Development II;3
+ECON 455;Institutions and Development;3
+ECON 457;Alternative Theories of Growth and Distribution;3
+ECON 458;Labor Market Economics;3
+ECON 460;Economics of Globalization;3
+ECON 464;Global Trading;3
+ECON 499;Individual Study;3
+ECON 500;Mathematics Review Course;3
+ECON 503;Microeconomic Theory I;3
+ECON 504;Microeconomic Theory II;3
+ECON 505;Macroeconomic Theory I;3
+ECON 506;Macroeconomic Theory II;3
+ECON 509;Probability and Statistics I;3
+ECON 510;Probability and Statistics II;3
+ECON 511;Econometrics I;3
+ECON 512;Econometrics II;3
+ECON 513;Game Theory I;3
+ECON 515;Mathematics for Economists I;3
+ECON 516;Mathematics for Economists II;3
+ECON 519;Theory of Fair Allocation;3
+ECON 521;International Trade;3
+ECON 530;Topic in Mathematical Economics;3
+ECON 541;Economics of Labor Market;3
+ECON 564;Topics in Macroeconomic Theory II;3
+ECON 575;Monetary Economics I;3
+ECON 576;Monetary Economics II;3
+ECON 591;Masters Pre-Thesis Seminar I;0
+ECON 592;Masters Pre-Thesis Seminar II;0
+ECON 595;Research Paper I;0
+ECON 596;Research Paper II;0
+ECON 599;Master's Thesis;0
+ECON 691;Ph.D. Pre-Thesis Seminar I;0
+ECON 692;Ph.D. Pre-Thesis Seminar II;0
+ECON 695;Research Methods in Economics I;3
+ECON 696;Research Methods in Economics II;3
+ECON 699;Ph.D. Dissertation;0
+HCIV 101;History of Civilization I;3
+HCIV 102;History of Civilization II;3
+HIST 200;History of Turkey;4
+HIST 209;History of Turkey;4
+HIST 313;Classical Arabic I;3
+HIST 314;Classical Arabic II;3
+HIST 315;Advanced Classical Arabic I;3
+HIST 316;Advanced Classical Arabic II;3
+HIST 401;Ottoman Turkish and Paleography I;4
+HIST 402;Ottoman Turkish and Paleography II;4
+HIST 411;Ottoman History: 1300-1600;3
+HIST 412;Ottoman History: 1600-1914;3
+HIST 413;Byzantine History I: 324-1025;3
+HIST 414;Byzantine History II: 1025-1453;3
+HIST 416;Medieval British History;3
+HIST 417;Medieval Europe (500-1500);3
+HIST 418;Modern Europe (1453-1914);3
+HIST 431;History of the United States until the Reconstruction;3
+HIST 432;History of the United States from the Reconstruction;3
+HIST 435;History of US Foreign Relations: the Cold War and Beyond;3
+HIST 481;Latin for Medieval and Early Modern History I;3
+HIST 482;Latin for Medieval and Early Modern History II;3
+HIST 490;Field Related Seminar;0
+HIST 501;Ottoman Paleography I;4
+HIST 502;Ottoman Paleography II;4
+HIST 505;Ottoman Rule in Southeast Europe I: 1354-1600;3
+HIST 506;Ottoman Rule in Southeast Europe II: 1600-1878;3
+HIST 507;Methodology in History I;3
+HIST 508;Methodology in History II;3
+HIST 509;Latin Palaeography for Medieval and Early Modern European History;3
+HIST 511;Ottoman Social and Economic History I;3
+HIST 512;Ottoman Social and Economic History II;3
+HIST 517;Ottoman Millet System;3
+HIST 518;Introduction to Ottoman Diplomatics;3
+HIST 519;Sources of Ottoman Social and Economic History I;3
+HIST 520;Sources of Ottoman Social and Economic History II;3
+HIST 523;England (1300-1600): History and Texts;3
+HIST 524;US in the Vietnam Era;3
+HIST 526;Advanced Ottoman Diplomatics;3
+HIST 527;Feudalism: East and West I;3
+HIST 528;Migrations Politics and Society in Late Ottoman History;3
+HIST 529;Bulgaria under the Ottoman Rule: History and Sources;3
+HIST 530;Comparative History of Crusading and Holy War;3
+HIST 545;Themes in Historical Geography and Demography;3
+HIST 549;Rebellions and Revolutions in Early Modern History;3
+HIST 555;Modernization of the Ottoman Empire During the 19.Century;3
+HIST 559;Economic History, the Rise of Capitalism;3
+HIST 560;Major Issues in Medieval and Early Modern Economies;3
+HIST 563;Islamic Culture in the Ottoman Balkans, 1400-1600;3
+HIST 564;Islamic Culture in the Ottoman Balkans, 1600-1900;3
+HIST 567;History and Literature in the Ottoman Empire;3
+HIST 569;Cultural History of the Ottoman Empire I;3
+HIST 570;Cultural History of the Ottoman Empire II;3
+HIST 577;US Military and Diplomatic History;3
+HIST 578;Magna Carta and Associated Documents:Texts and Contexts;3
+HIST 579;Modernization of the Ottoman Empire:1800-1923;3
+HIST 581;Latin for Medieval and Early Modern History III;3
+HIST 588;The Latin Kingdom of Jerusalem 1099-1291;3
+HIST 589;History of Arab Nationalism in the Middle East;3
+HIST 593;Seminar in English History I;3
+HIST 595;Seminar in American History I;3
+HIST 599;Master's Thesis;0
+HIST 605;History of Ottoman Diplomacy;3
+HIST 617;Ottoman Intellectual Life in the Reform Period, 1839-1914;3
+HIST 692;Pre-Thesis Seminar;0
+HIST 693;Pre-Thesis Seminar;0
+HIST 699;Ph.D. Dissertation;0
+HIST 702;Modern Middle East since 1800;3
+HIST 704;Medieval Nobilities;3
+HIST 705;History of Russia: From Tsardom to Empire;3
+HIST 707;The United States and the Second World War;3
+HIST 708;European Migration to the Ottoman Empire and Early Republican Turkey;3
+HIST 711;Russia and Turkey;3
+HIST 713;History of European Integration;3
+HIST 714;Central Eastern Europe (1815-1945);3
+HIST 4413;Venice between the Byzantines and the Ottomans(ca.300-ca.1700 CE);3
+HIST 5513;Venice between the Byzantines and the Ottomans (ca. 300 - ca. 1700 CE);3
+HIST 5514;Cities of the Empires:Eastern Mediterranean Urbanism From Late Antiquity to The Early Ottoman Era;3
+HIST 5515;Byzantium and the Muslim World (from the rise of Islam to the formation of the Ottoman Empire);3
+HIST 5516;The Vikings;3
+HIST 5660;Peter the Great: The Birth of Modern Russia (1682-1725);3
+IR 101;Introduction to World Politics;3
+IR 205;Diplomatic History;3
+IR 214;Global Environmental Issues;3
+IR 215;Introduction to Middle Eastern Politics;3
+IR 227;Research Methods in International Relations;3
+IR 236;20th Century World Politics;3
+IR 303;International Law;3
+IR 305;International Organizations;3
+IR 308;Turkic/Muslim People of the Former USSR;3
+IR 311;Russian History;3
+IR 322;International Protection of Human Rights;3
+IR 331;War, Peace and Security;3
+IR 333;Foreign Policy Analysis;3
+IR 335;International Relations Theory;3
+IR 338;Politics of International Economy;3
+IR 348;Post Communist Conflicts: Roots, Explanations and Prospect;3
+IR 349;International Relations in Movies;3
+IR 350;Negotiation and Mediation in Politics;3
+IR 351;Globalization;3
+IR 353;Energy Security and Foreign Policy;3
+IR 354;Introduction to Middle East Politics;3
+IR 355;Public Policy Making in the European Union;3
+IR 356;International Development Assistance;3
+IR 358;International Security;3
+IR 359;Civil Societies in Peace and Conflict;3
+IR 360;Government and Politics in Central and Eastern Europe;3
+IR 361;Global Labour Issues;3
+IR 399;Summer Training;0
+IR 401;American Politics and Foreign Policy;3
+IR 413;Game Theory and International Politics;3
+IR 438;Use of Force in International Law;3
+IR 439;Turkish Foreign Policy;3
+IR 441;Latin American Politics;3
+IR 454;International Environmental Politics;3
+IR 463;Political Economy of Turkey;3
+IR 464;History of the Cold War;3
+IR 470;International Terrorism and Transnational Crime;3
+IR 477;Political Economy of Natural Resources;3
+IR 488;Security and Strategy;3
+IR 492;Gender in International Relations;3
+IR 493;European Union;3
+IR 494;Causes and Prevention of War;3
+IR 495;World Energy Politics;3
+IR 498;International Relations and Media;3
+IR 501;International Relations Theory;3
+IR 507;Foreign Policy of the United States;3
+IR 509;Pre-thesis Seminar;0
+IR 522;Foreign Policy Analysis;3
+IR 547;International Politics;3
+IR 572;European Union Integration, EU and OECD Economies;3
+IR 578;History of the Cold War;3
+IR 599;Master's Thesis;0
+IR 614;New Directions in Security Studies;3
+IR 621;Current Debates in International Relations Theory;4
+IR 625;Advanced Diplomatic History;4
+IR 629;Global Political Economy;3
+IR 649;The Soviet Union and The Second World War;3
+IR 650;The Soviet Union Under Stalin (1924-1953);3
+IR 660;Peter the Great: The Birth of Modern Russia (1682-1725);3
+IR 665;The Diaspora Phenomenon;3
+IR 690;Pre-Thesis Seminar;0
+IR 699;Ph.D. Dissertation;0
+IR 4005;Issues in International Political Economy;3
+IR 4104;The Politics and Foreign Policy of Southeast Europe;3
+IR 4109;Issues for Turkey in Global Political Economy;3
+IR 4114;Religion and IR Theories;3
+IR 4115;Turkey's International Relations and the Middle East;3
+IR 4116;International Logistics;3
+IR 4117;Global Governance;3
+IR 4120;Globalization, Development and the Environment in World Politics;3
+IR 4121;Intervention in International Relations;3
+IR 4123;Environment, Climate Change and Sustainable Development;3
+IR 4124;European Union Foreign Policy;3
+IR 4125;Contemporary Debates in Geopolitics;3
+IR 4127;Citizenship and Identity in the European Union;3
+IR 4128;The International Politics of Forced Migration;3
+IR 4129;Oil and Gas Law;3
+IR 4140;Rising Powers in Global Politics;3
+IR 4141;Current Issues in European Union Politics;3
+IR 4142;Sports and Global Relations;3
+IR 4144;Politics and Conflict in Sub-Saharan Africa;3
+IR 4147;International Politics;3
+IR 4195;Intelligence and Strategic Analysis;3
+IR 4196;Cultural Heritage: Politics, Management, Regulations;3
+IR 4197;Humanitarian Action and Development: Sectors and Skills;3
+IR 4198;Nuclear Proliferation and International Politics;3
+IR 5103;American Politics and Foreign Policy;3
+IR 5104;Issues in Turkish Foreign Policy;3
+IR 5105;Issues in International Political Economy;3
+IR 5107;EU Public Policy;3
+IR 5114;Religion and IR Theories;3
+IR 5115;Transnational Security;3
+IR 5116;International State-Building;3
+IR 5119;Issues for Turkey in Global Political Economy;3
+IR 5140;Rising Powers in Global Politics;3
+IR 5441;Latin American Politics;3
+MIAPP 501;Term Project;0
+MIAPP 516;International Logistics;3
+MIAPP 555;Public Policy Making in the European Union;3
+POLS 101;Introduction to Political Science I;3
+POLS 104;Introduction to Political Science II;3
+POLS 201;Fundamentals of Social Research;3
+POLS 222;Politics of the Environment;3
+POLS 229;Turkish Political History I;3
+POLS 230;Turkish Political History II;3
+POLS 235;Political Psychology;3
+POLS 238;Negotiation and Mediation in Politics;3
+POLS 240;Social Transformation in Turkey;3
+POLS 303;Comparative Politics I;3
+POLS 304;Comparative Politics II;3
+POLS 305;Turkish Political Development;3
+POLS 306;Contemporary Turkish Politics;3
+POLS 309;Turkish Political Thought I;3
+POLS 323;Political Anthropology;3
+POLS 324;Research Methods;3
+POLS 330;European Society and Culture;3
+POLS 331;State and Society in Israel;3
+POLS 334;Turkish Political Thought II;3
+POLS 338;Cosmopolis: From the Roman to the Ottoman and British Empires;3
+POLS 343;Social Theory: Past and Present;3
+POLS 344;Turkish Nationalism :Politics and Ideology;3
+POLS 346;Ethnographic Research and Politics;3
+POLS 347;Liberty and Liberalism;3
+POLS 353;Foundations of Modern Political Theory;3
+POLS 355;Issues of Urbanization;3
+POLS 357;Ethics and Morality in Daily Life;3
+POLS 399;Summer Training;0
+POLS 407;Contemporary Political Ideologies;3
+POLS 411;Gender and Politics;3
+POLS 420;Theory and Modern Society;3
+POLS 421;Issues in Modern Political Thought;3
+POLS 426;Civil Society in Turkey;3
+POLS 431;Politics and Society in Turkey;3
+POLS 437;Politics and Literature;3
+POLS 449;Political Concepts;3
+POLS 452;State Society and Citizenship in Turkey;3
+POLS 454;Politics Media and Propaganda;3
+POLS 458;Nationalism and Citizenship in Comparative Perspective;3
+POLS 463;Politics of Security;3
+POLS 464;Interculturalism and Europe;3
+POLS 465;Governance and Public Policy;3
+POLS 466;Issues in Political Theory;3
+POLS 467;Conflict, Violence, and Peace;3
+POLS 469;Regional Security in the Middle East;3
+POLS 473;Democratization Process in Turkey;3
+POLS 480;European Politics;3
+POLS 483;Liberalism and Socialism: Past and Present;3
+POLS 484;Life, Nature and Politics;3
+POLS 486;Issues in Comparative Politics;3
+POLS 488;Film and Politics;3
+POLS 490;Democracy, Development and Human Rights;3
+POLS 491;Issues of Urbanization;3
+POLS 495;International Political Economy;3
+POLS 496;Aesthetics and Politics;3
+POLS 497;Local and Global in Cities;3
+POLS 498;Individual, Society and Violence;3
+POLS 499;Individual Study;3
+POLS 504;Comparative Welfare States;3
+POLS 536;Turkish Politics in Comparative Perspective;3
+POLS 551;Pre-Thesis Seminar I;0
+POLS 560;Contemporary Political Theory;3
+POLS 565;European Politics;3
+POLS 568;Urban Politics;3
+POLS 569;Regional Security in the Middle East;3
+POLS 596;Aesthetics and Politics;3
+POLS 599;Master's Thesis;0
+POLS 601;Seminar in Turkish Politics;3
+POLS 602;Seminar in Comparative Politics;3
+POLS 604;Democratization Process in Turkey;3
+POLS 605;The Public Sphere;3
+POLS 606;Seminar in Political Theory;3
+POLS 608;Politics, Culture, Nation and Gender;3
+POLS 609;Issues in Urban Studies;3
+POLS 610;Research Methods;3
+POLS 612;Seminar in Social and Cultural Studies:;3
+POLS 635;Politics of Turkish Modernization;3
+POLS 636;Nationalism and Politics;3
+POLS 637;Power and State;3
+POLS 639;The Ecology of Social Relations and Cultural Processes;3
+POLS 645;Voting Behavior and Political Parties;3
+POLS 646;Politics of the Self;3
+POLS 651;Pre-Thesis Seminar I;0
+POLS 699;Ph.D. Dissertation;0
+POLS 4130;Public Financial Administration;3
+POLS 4131;Model Parliament;1
+POLS 4204;Politics of The Balkans;3
+POLS 4504;Comparative Welfare States;3
+POLS 4536;Turkish Politics in Comparative Perspective;3
+POLS 4560;Contemporary Political Theory;3
+POLS 4568;Urban Politics;3
+POLS 5431;Politics and Society in Turkey;3
+POLS 5437;Politics and Literature;3
+POLS 5463;Politics of Security;3
+POLS 5467;Conflict, Violence, and Peace;3
+POLS 5486;Issues in Comparative Politics;3
+POLS 5490;Democracy, Development, and Human Rights;3
+SOC 101;Introduction to Sociology;3
+PSYC 100;Introduction to Psychology;3
+PSYC 101;Introduction to Psychology I / Cognitive and Biological;3
+PSYC 102;Introduction to Social Psychology;3
+PSYC 103;Introduction to Psychology II / Social and Developmental;3
+PSYC 200;Cognitive Psychology;3
+PSYC 203;Statistics I;3
+PSYC 204;Research Methods I;3
+PSYC 205;Statistics II;3
+PSYC 206;Research Methods II;3
+PSYC 220;Brain and Behavior;3
+PSYC 230;Social Psychology;3
+PSYC 240;Developmental Psychology;3
+PSYC 310;Perception, Attention, and Action;3
+PSYC 311;Mirroring Processes in Social Cognition;3
+PSYC 320;Cognitive Neuroscience;3
+PSYC 321;Cognitive Neuroscience and Rehabilitation;3
+PSYC 322;Developmental Cognitive Neuroscience;3
+PSYC 330;Applied Social Psychology;3
+PSYC 340;Learning, Remembering, and Thinking;3
+PSYC 350;Cognitive and Social Development;3
+PSYC 360;Individual Differences and Personality;3
+PSYC 375;Genes, Environment and Development in Psychology;3
+PSYC 391;Directed Research in Psychology;3
+PSYC 399;Summer Training;0
+PSYC 401;Senior Thesis I;3
+PSYC 402;Senior Thesis II;3
+PSYC 405;Introduction to FMRI;3
+PSYC 406;Introduction to Electroencephalography (EEG);3
+PSYC 410;Neuropsychology;3
+PSYC 415;Cognitive Aging;3
+PSYC 420;Selected Topics in Cognitive Psychology;3
+PSYC 421;Selected Topics in Social Psychology;3
+PSYC 422;Selected Topics in Developmental Psychology;3
+PSYC 423;Selected Topics in Cognitive Science;3
+PSYC 424;Selected Topics in Cognitive Neuroscience;3
+PSYC 425;Selected Topics in Neurobiological Psychology;3
+PSYC 430;Clinical Psychology;3
+PSYC 431;Psychological Testing and Measurement;3
+PSYC 433;Abnormal Psychology;3
+PSYC 434;Child and Adolescent Psychopathology;3
+PSYC 435;Industrial and Organizational Psychology;3
+PSYC 438;Interpersonal Relationships;3
+PSYC 439;Visual Neuroscience;3
+PSYC 482;Mind in Evolution;3
+PSYC 483;Theory of Mind;3
+PSYC 491;Introduction to Cognitive Psychology;3
+PSYC 498;Senior Project I;3
+PSYC 499;Senior Project II;3
+PSYC 501;Advanced Cognitive Psychology;3
+PSYC 502;Advanced Developmental Psychology;3
+PSYC 506;Introduction to Electroencephalography (EEG);3
+PSYC 510;Advanced Social Psychology;3
+PSYC 515;Selected Topics in Psychology I;3
+PSYC 520;Advanced Topics in Cognitive Neuroscience;3
+PSYC 521;Principles of Functional Magnetic Resonance Imaging;3
+PSYC 523;Selected Topics Ýn Cognitive Science;3
+PSYC 575;Advanced Training in Psychological Research I;3
+PSYC 583;Theory of Mind;3
+PSYC 591;Pro-Thesis Seminar I;0
+PSYC 599;M.A. Dissertation;0
+PSYC 673;Advanced Training in Psychological Research II;3
+PSYC 691;Pro-Thesis Seminar II;0
+PSYC 699;Ph.D. Dissertation;0
+CTE 111;Introduction to Programming I;5
+CTE 112;Introduction to Programming II;5
+CTE 113;Information Technologies in Education I;4
+CTE 114;Information Technologies in Education II;4
+CTE 115;Discrete Mathematics;3
+CTE 191;Information and Communication Technology;3
+CTE 205;Computer Organization;3
+CTE 211;Programming Languages I;5
+CTE 212;Programming Languages II;4
+CTE 216;Introduction to Web Technologies;3
+CTE 218;Operating Systems;4
+CTE 252;Instructional Design;3
+CTE 308;Information Ethics and Security;3
+CTE 309;Community Service;3
+CTE 311;Database Management Systems;4
+CTE 316;Network Structures and Communication;3
+CTE 317;Programming for the Internet I;3
+CTE 321;Human Computer Interaction;3
+CTE 322;Multimedia Design and Development;3
+CTE 351;Material Design and Development in Education;3
+CTE 400;Summer Training;0
+CTE 403;Research Methods in Education;3
+CTE 410;Community Service;2
+CTE 417;Programming for the Internet II;3
+CTE 421;Project Management and Development I;3
+CTE 422;Project Management and Development II;4
+CI 402;Probability Theory;3
+CI 403;Statistics;3
+CI 501;Learning Development and Cultural Context for Teaching;3
+CI 502;Managing the Classroom;3
+CI 503;Educational Leadership and School Development;3
+CI 504;Contemporary Issues in Curriculum Development and Evaluation;3
+CI 506;IB and IGCSE Curricula;3
+CI 507;Educational Research;3
+CI 508;Assessing Student Learning and Progress;3
+CI 509;Thesis Seminar I;0
+CI 510;Thesis Seminar II;0
+CI 511;Curriculum in an International Context;3
+CI 512;Written Academic Discourse I;0
+CI 513;Statistics;3
+CI 514;Curriculum Development and Evaluation;3
+CI 515;Trends and Issues in Instruction and Assessment;3
+CI 516;Child and Adolescent Psychology;3
+CI 517;Learning Theories and Practice;3
+CI 518;Science of Learning;3
+CI 522;Written Academic Discourse II;3
+CI 532;Written Academic Discourse;3
+CI 541;Motivation in the Classroom;3
+CI 599;Master's Thesis;0
+CI 601;Instruction: Perspectives and Practice;3
+CI 602;Curriculum: Perspectives and Practice;3
+CI 603;Practicum in Curriculum Development & Evaluation;3
+CI 604;Educational Statistics;3
+CI 605;Educational Research Methods;3
+CI 606;Qualitative Research Methods;3
+CI 608;Current Trends and Issues in Educational Technology;3
+CI 611;Issues and Trends in Education;3
+CI 690;Dissertation Seminar;0
+CI 699;Ph.D. Dissertation;0
+BTE 501;Biology Curriculum Review I;3
+ETE 503;English Curriculum Review;3
+ETE 504;Literature for Young Learners;3
+MTE 501;Mathematics Curriculum Review I;3
+MTE 503;Computer Technology in Mathematics Education;3
+TE 116;Introduction to Education Science;3
+TE 203;Educational Psychology;3
+TE 204;Principles and Methods of Instruction;3
+TE 207;Introduction to Curriculum;3
+TE 307;Measurement and Evaluation;3
+TE 310;Computer Teaching Methods I;3
+TE 312;School Experience I;3
+TE 314;Classroom Management;2
+TE 318;Turkish Education System and School Management;2
+TE 402;Guidance;3
+TE 405;Computer Teaching Methods II;3
+TE 406;Teaching Practice in Computer Teaching;5
+TE 407;School Experience II;3
+TE 509;Developmental Psychology;2
+TE 510;Curriculum and Instruction;2
+TE 518;Measurement and Evaluation;2
+TE 519;Classroom Management;2
+TE 520;Instructional Technology and Material Design;3
+TE 524;Guidance;2
+TE 527;Literary Text Review in Teaching Literature;3
+TE 528;Introduction to Educational Science;2
+TE 529;Turkish Language and Literature Curriculum Review;3
+TE 531;English Teaching Methods I;3
+TE 532;Biology Teaching Methods I;3
+TE 533;Turkish Language Teaching Methods;3
+TE 535;Mathematics Teaching Methods I;3
+TE 537;Physics Teaching Methods I;3
+TE 540;Curriculum Development in Education;2
+TE 541;English Teaching Methods II;3
+TE 542;Biology Teaching Methods II;3
+TE 543;Turkish Literature Teaching Methods;3
+TE 545;Mathematics Teaching Methods II;3
+TE 547;Physics Teaching Methods II;3
+TE 550;Educational Psychology;2
+TE 551;School Experience I in English;3
+TE 552;School Experience I in Biology;3
+TE 553;School Experience I in Turkish Language and Literature;3
+TE 555;School Experience I in Mathematics;3
+TE 557;School Experience I in Physics;3
+TE 560;Physics Curriculum Review;3
+TE 561;School Experience II in English;3
+TE 562;School Experience II in Biology;3
+TE 563;School Experience II in Turkish Language and Literature;3
+TE 565;School Experience II in Mathematics;3
+TE 567;School Experience II in Physics;3
+TE 571;Teaching Practice in English;5
+TE 572;Teaching Practice in Biology;5
+TE 573;Teaching Practice in Turkish Language and Literature;5
+TE 575;Teaching Practice in Mathematics;5
+TE 577;Teaching Practice in Physics;5
+TE 581;Principles and Methods of Instruction;2
+TE 590;Advanced Teaching Practice;0
+TEFL 501;Second Language Acquisition;3
+TEFL 503;Linguistics: the Nature of Language;3
+TEFL 506;Sociolinguistics;3
+TEFL 510;Language Testing;3
+TEFL 521;EFL Methodology I;3
+TEFL 528;Curriculum Development and Evaluation;3
+TEFL 530;Materials Development;3
+TEFL 531;Research Methods in Linguistics I;3
+TEFL 532;Research Methods in Linguistics II;3
+TEFL 550;Thesis Seminar;0
+TEFL 554;Thesis Writing;0
+TEFL 555;Written Academic Discourse;3
+TEFL 556;Seminar in TEFL;3
+PE 102;Principles of Body Movement;1
+PE 110;Tennis;1
+PE 115;Squash;1
+PE 125;Table Tennis;1
+PE 130;Basketball;1
+PE 135;Volleyball;1
+PE 160;Strength Training;1
+PE 173;Vinyasa Flow Yoga;1
+PE 176;Beginning Yoga;1
+PE 177;Intermediate Yoga;1
+PE 178;Beginning Pilates;1
+PE 179;Yoga Integrity;1
+PE 180;Football (Soccer);1
+PE 190;Karate;1
+PE 191;JUDO;1
+PE 192;Aikido;1
+PE 195;Taekwondo;1
+PE 205;Orienteering;1
+AMER 115;Methods and Texts I;3
+AMER 116;Methods and Texts II;3
+AMER 195;Introduction to American Studies I;3
+AMER 196;Introduction to American Studies II;3
+AMER 207;American Texts and Contexts I;4
+AMER 208;American Texts and Contexts II;4
+AMER 290;Summer Training I;0
+AMER 293;American History I;3
+AMER 294;American History II;3
+AMER 303;Film Studies in American Culture to 1960;4
+AMER 304;Film Studies in American Culture Since 1960;4
+AMER 343;American Theater;3
+AMER 357;American Intellectual History I;3
+AMER 358;American Intellectual History II;3
+AMER 374;American Poetry;3
+AMER 383;American Novel to 1900;3
+AMER 384;American Novel From 1900;3
+AMER 390;Summer Training II;0
+AMER 406;Senior Project;3
+AMER 426;American Studies in a Global Context;3
+AMER 427;Topics in Theory for American Culture;3
+AMER 430;The Thirties: the Great Depression and the New Deal;3
+AMER 441;Culture in its Historical Contexts;3
+AMER 447;Topics in Cultural Studies;3
+AMER 448;American Pragmatism;3
+AMER 458;History of American Presidential Campaigns;3
+AMER 459;Race and Ethnicity in American Culture;3
+AMER 460;Contemporary Native American Writers;3
+AMER 468;American Fiction in the 21. Century: Migration, Space, Identity;3
+AMER 469;American Law Culture and Society;3
+AMER 474;Colonialism and the Making of the New World;3
+AMER 476;Selfhood and Emotional Life in American Culture and History;3
+AMER 477;American Gothic;3
+AMER 480;Hemispheric American Studies;3
+AMER 481;Theories of American Culture: An Ethnographic Approach;3
+AMER 482;Creative Writing Workshop;3
+AMER 483;Freedom and Philosophy in Anglo-America;3
+AMER 486;Social Movements in American History;3
+AMER 487;Native American Literature;3
+AMER 492;Gender Studies in American Culture;3
+HART 102;Introduction to Research Skills;3
+HART 111;Introduction to Archaeology;3
+HART 117;Ways of Seeing: Approaches to Art and Architectural History;3
+HART 120;Human Evolution and World Prehistory;3
+HART 125;Archaeological Illustration;3
+HART 126;Archaeological Planning or Planning and Drawing in the Field;3
+HART 206;Mythologies of the Ancient Mediterranean World;3
+HART 208;Roman Art and Archaeology;3
+HART 212;Introduction to Classical Archaeology;3
+HART 219;Anatolian Archaeology, Neolithic to the Iron Age;3
+HART 221;Great Discoveries from the Ancient World;3
+HART 222;Mesopotamian Archaeology;3
+HART 225;Cultural Anthropology;3
+HART 227;Greek Archaeology;3
+HART 228;UNESCO World Heritage Sites in Turkey-Göbekli Tepe, Çatalhöyük,Troia and Hattusha;3
+HART 231;Ancient Greek I;3
+HART 232;Ancient Greek II;3
+HART 239;Latin I;3
+HART 240;Latin II;3
+HART 303;Greek Sculpture;3
+HART 305;Byzantine and Islamic Art and Archaeology;3
+HART 306;Hellenistic and Roman Sculpture;3
+HART 307;Monumental Painting;3
+HART 308;Greek Vase Painting;3
+HART 310;Archaeological Surveying and Planning;3
+HART 311;Archaeological Drawing and Planning in the Field;3
+HART 313;European Prehistory;3
+HART 315;Greek Architecture;3
+HART 316;Roman Architecture;3
+HART 317;Archaeology of Troy;3
+HART 318;Archaeology of Syria and Palestine;3
+HART 322;Orientalizing Period;3
+HART 325;Hittite Archaeology;3
+HART 328;The Aegean Bronze Age;3
+HART 330;Egyptian Art and Archaeology;3
+HART 333;Ancient Greek III;3
+HART 334;Ancient Greek IV;3
+HART 335;Monuments of Babylon;3
+HART 342;Hittite Grammar I;3
+HART 343;Latin III;3
+HART 344;Latin IV;3
+HART 346;Daily Life in Ancient Greece;3
+HART 351;Monuments of Athens;3
+HART 352;Monuments of Rome;3
+HART 353;Introduction to Akkadian;3
+HART 360;Ancient Mesoamerican Civilizations;3
+HART 365;Ancient Cities;3
+HART 366;The Buried Cities of Campania;3
+HART 370;Iron Age Sculpture of the Near East;3
+HART 372;Hittite I;3
+HART 373;Hittite II;3
+HART 374;Hittite III;3
+HART 375;Hittite IV;3
+HART 380;Archaeology of Phoenicia;3
+HART 399;Summer Practice I;0
+HART 400;Senior Project;3
+HART 401;Summer Practice II;0
+HART 403;Greek Sanctuaries;3
+HART 409;Museum Practices and the Preservation of Cultural Heritage;3
+HART 410;Special Topics in Art, Architecture and Archaeology;3
+HART 420;Readings in Prehistory;3
+HART 423;Cities, Monuments and Landscapes of Classical Anatolia;3
+HART 424;Religion and Society in the Ancient Near East;3
+HART 426;Ancient Technologies and Materials;3
+HART 430;Readings in Near Eastern Art and Archaeology;3
+HART 431;The Archaeology of Cyprus in the Bronze Age;3
+HART 433;The Eastern Roman Provinces;3
+HART 434;Landscape Archaeology;3
+HART 435;Selected Topics in Anatolian Art and Archaeology;3
+HART 436;Archaeological Method and Theory;3
+HART 439;Neolithic and Chalcolithic Periods in Anatolia;3
+HART 440;Readings in Anatolian Art and Archaeology;3
+HART 450;Readings in Greek Art and Archaeology;3
+HART 453;Palaeolithic Archaeology in Eurasia and the Near East;3
+HART 454;Introduction to Sumerology;3
+HART 460;Readings in Roman Art and Archaeology;3
+HART 470;Readings in Byzantine Art and Archaeology;3
+HART 474;Neo-Assyrian Art and Archaeology;3
+HART 490;Supervised Study;3
+HART 491;Readings from Near Eastern Texts;3
+HART 492;Readings From Greek/Latin Texts;3
+HART 494;Readings From Greek/Latin Texts II;3
+HART 501;Issues in Archaeological Theory;3
+HART 503;Issues in Conservation and Preservation;3
+HART 507;Pre-Classical Art and Archaeology;3
+HART 508;Issues in Pre-Classical Art and Archaeology;3
+HART 509;Classical Art and Archaeology;3
+HART 510;Issues in Classical Art and Archaeology;3
+HART 514;Readings in Classical Archaeology;3
+HART 515;Readings in Near Eastern Archaeology;3
+HART 516;Supervised Research in Near Eastern Archaeology;3
+HART 517;Readings in Anatolian Archaeology;3
+HART 518;Supervised Research in Anatolian Archaeology;3
+HART 519;Research Directions for Anatolian Archaeology and Art;3
+HART 521;Problems in Medieval Art and Archaeology;3
+HART 523;Medieval Art and Archaeology;3
+HART 524;Issues in Medieval Art and Archaeology;3
+HART 542;Hittite I;3
+HART 543;Hittite II;3
+HART 544;Hittite III;3
+HART 545;Hittite IV;3
+HART 551;Ancient Greek I;3
+HART 552;Ancient Greek II;3
+HART 553;Ancient Greek III;3
+HART 554;Ancient Greek IV;3
+HART 563;Latin I;3
+HART 564;Latin II;3
+HART 583;Latin III;3
+HART 584;Latin IV;3
+HART 588;Readings From Greek/Latin Texts;3
+HART 590;Seminar;0
+HART 599;Master's Thesis;0
+CINT 501;Theory of Interpreting;2
+CINT 503;Introduction to the Practice of Interpreting;4
+CINT 506;EU and International Institutions;4
+CINT 509;Advanced Consecutive Interpretation I;6
+CINT 510;Advanced Consecutive Interpretation II;6
+CINT 513;Advanced Simultaneous Interpreting I;6
+CINT 514;Advanced Simultaneous Interpreting II;6
+CINT 516;Conference Interpreting;6
+CINT 518;Cross Cultural Negotiations;2
+CINT 520;Technology and Research for Interpreting;2
+CINT 590;Interpreting Seminar;0
+ELIT 115;Oral Expression Discussion and Presentation;3
+ELIT 139;Appreciation of Literature;3
+ELIT 143;Literature in its Contexts;3
+ELIT 152;Research and Writing Techniques;3
+ELIT 164;Concepts in Literary Studies;3
+ELIT 209;Topics in Literary and Cultural Studies;3
+ELIT 222;Introduction to Theory and Criticism;3
+ELIT 227;Poetry and Poetics;3
+ELIT 230;Fiction and Narrative;3
+ELIT 242;Introduction to Drama;3
+ELIT 246;Drama and Performance;3
+ELIT 256;Civil War, Restoration, Revolution;3
+ELIT 262;The English Novel (19th Century);3
+ELIT 265;Introduction to the Novel;3
+ELIT 270;Poetry;3
+ELIT 273;Medieval and Renaissance Literature;3
+ELIT 281;The Short Story;3
+ELIT 290;Summer Training I;0
+ELIT 328;Britain from Its Beginnings to the Modern Period;3
+ELIT 359;Shakespeare;3
+ELIT 366;Victorian Literature;3
+ELIT 377;Romantic Literature;3
+ELIT 384;Philosophy and Literature;3
+ELIT 386;Transformations: Novels between Genres, Genders, and Species;3
+ELIT 388;Plays and London since 1850;3
+ELIT 390;Summer Training II;0
+ELIT 392;Literary Theory;3
+ELIT 421;Literature and Modernity;3
+ELIT 425;From the Study of Literature to Literary Studies. The Development of a Discipline;3
+ELIT 427;Plays and Conventions of the Theatre of the Absurd;3
+ELIT 438;Selected Topics;3
+ELIT 439;Plays and Playwrights of the English Renaissance Excluding Shakespeare;3
+ELIT 440;Lýterary Imagination and the End of the World;3
+ELIT 445;The Modern Pastoral;3
+ELIT 463;Postcolonial Literature;3
+ELIT 474;Twentieth Century Poetry;3
+ELIT 478;Post-War Literature;3
+ELIT 490;Senior Project;3
+FRP 101;Communicative French Skills I;0
+FRP 102;Listening Comprehension and Public Speaking I;0
+FRP 103;Analytical Reading and Writing Strategies I;0
+FRP 104;Linguistics, Grammar and CAL (Computer Assisted Language) I;0
+FRP 201;Communicative French Skills II;0
+FRP 202;Listening Comprehension and Public Speaking II;0
+FRP 203;Analytical Reading and Writing Strategies II;0
+FRP 204;Linguistics, Grammar and CAL (Computer Assisted Language) II;0
+TRIN 101;Comparative Grammar (English-Turkish);3
+TRIN 102;Applied Linguistics;3
+TRIN 103;Comparative Grammar (French-Turkish);3
+TRIN 133;Texts and Composition in French I;3
+TRIN 134;Texts and Composition in French II;3
+TRIN 161;Introduction to Translation;3
+TRIN 166;English-Turkish-French Translation;4
+TRIN 172;Computer Literacy;3
+TRIN 205;English-American and French Culture;3
+TRIN 207;Language of Journalism;3
+TRIN 212;Technology for Translators;3
+TRIN 236;Group Communication and Discussion;3
+TRIN 265;Translation of Economic Texts (English-Turkish-French);4
+TRIN 266;Translation of Political and Legal Texts (English-Turkish-French);4
+TRIN 267;Sight Translation I;3
+TRIN 268;Sight Translation II;3
+TRIN 271;Business Communication;3
+TRIN 330;Criticism and French Literature;3
+TRIN 332;Translation criticism of Anglo-American literature;3
+TRIN 334;Media Studies;3
+TRIN 335;Note-Taking and Consecutive Interpretation;3
+TRIN 336;Introduction to Simultaneous Interpretation;3
+TRIN 337;Precis Writing in English-French;3
+TRIN 339;Introduction to Interpersonal Communication (in French);3
+TRIN 361;Technical Translation (English-Turkish);3
+TRIN 363;Technical Translation (French-Turkish);3
+TRIN 364;Literary Translation (English-Turkish);3
+TRIN 366;Literary Translation (French-Turkish);3
+TRIN 390;Summer Practice;0
+TRIN 461;English-French Translation Workshop I;3
+TRIN 462;English-French Translation Workshop II;3
+TRIN 464;Professional Communication for Interpreters;3
+TRIN 465;Audiovisual Translation;3
+TRIN 473;Turkish Diction;1
+TRIN 481;Consecutive and Simultaneous Interpretation Techniques;6
+TRIN 484;Simultaneous Interpretation II: Fieldwork+Projectwork;6
+TRIN 485;Translation workshop for EU texts and official documents;6
+TRIN 486;Translation project for official texts and documents;6
+TRIN 487;Interpreting for Public Services;3
+PHIL 101;Introduction to Logic;3
+PHIL 102;Ancient Philosophy;3
+PHIL 103;Introduction to Philosophy I;3
+PHIL 104;Introduction to Philosophy II;3
+PHIL 201;Epistemology;3
+PHIL 202;Ethics;3
+PHIL 203;Rationalists;3
+PHIL 204;Empiricists;3
+PHIL 243;Social and Political Philosophy I;6
+PHIL 244;Social and Political Philosophy II;6
+PHIL 299;Summer Training I;0
+PHIL 301;Political Philosophy;3
+PHIL 302;Social and Legal Philosophy;3
+PHIL 303;Kant;3
+PHIL 304;Philosophy of Science;3
+PHIL 306;Philosophy of Language;3
+PHIL 307;Paradox and Infinity;3
+PHIL 308;Philosophy of Mind;3
+PHIL 399;Summer Training II;0
+PHIL 401;Metaphysics;3
+PHIL 402;Aesthetics;3
+PHIL 403;Senior Thesis I;3
+PHIL 404;Senior Thesis II;3
+PHIL 405;Advanced Philosophy of Language;3
+PHIL 406;Advanced Philosophy of Mind;3
+PHIL 407;Medieval Philosophy;3
+PHIL 408;Nineteenth Century Philosophy;3
+PHIL 409;Introduction to Phenomenology;3
+PHIL 410;History of Analytic Philosophy;3
+PHIL 411;What is a Mind?;3
+PHIL 412;Philosophy of Mathematics;3
+PHIL 413;Foundations of Cognitive Science;3
+PHIL 414;Consciousness;3
+PHIL 415;Moral Psychology;3
+PHIL 416;From the Kitchen to the Streets: An Introduction to Feminism;3
+PHIL 418;Philosophy of Cognitive Science;3
+PHIL 419;Embodied Cognition;3
+PHIL 420;Philosophy of Memory;3
+PHIL 421;Feminist Philosophy;3
+PHIL 422;Bioethics;3
+PHIL 501;Research Preparation in Philosophy I;3
+PHIL 502;Research Preparation in Philosophy II;3
+PHIL 504;Philosophy of Cognitive Science;3
+PHIL 505;Embodied Cognition;3
+PHIL 506;Philosophy of Memory;3
+PHIL 507;Feminist Philosophy;3
+PHIL 508;Bioethics;3
+PHIL 521;History of Political and Educational Philosophy;3
+PHIL 531;Metaphysics;3
+PHIL 532;Aesthetics;3
+PHIL 534;Social and Legal Philosophy;3
+PHIL 540;History of Analytic Philosophy;3
+PHIL 545;Moral Psychology;3
+PHIL 591;Thesis Seminar;0
+PHIL 599;M.A.Dissertation;0
+EDEB 401;Introduction to Turkish Literature I;3
+EDEB 402;Introduction to Turkish Literature II;3
+EDEB 403;Theories of Literature;4
+EDEB 405;Written Expression;3
+EDEB 406;Fiction Writing in Turkish;3
+EDEB 408;Sources of Literature II: From Mimesis to Catharsis;3
+EDEB 411;Ottoman Turkish I;4
+EDEB 412;Ottoman Turkish II;4
+EDEB 413;Theoretical History of Western Civilization;3
+EDEB 415;Sources of Literature: Nature and Culture;3
+EDEB 416;Criticism;4
+EDEB 419;The Turkish Short Story;3
+EDEB 432;Modern Turkish Prose;3
+EDEB 502;Text and Image;3
+EDEB 504;Turkish Folk Literature;3
+EDEB 505;Turkish Literature 1839-1922 I;3
+EDEB 507;Turkish Poetry;3
+EDEB 508;Text and the City: Urban Space and Architecture in Turkish Literature;3
+EDEB 510;Turkish Literature 1839-1922 II;3
+EDEB 511;Ottoman Turkish III;3
+EDEB 512;Ottoman Turkish IV;3
+EDEB 518;Poetry and Translation;3
+EDEB 520;Literary Traditions of Turkey;3
+EDEB 524;The Turkish Novel;3
+EDEB 530;Literary Translation;3
+EDEB 542;Fictions of Migration;3
+EDEB 544;Gender and Sexuality in Turkish and European Literature;3
+EDEB 545;Gender and Fiction;3
+EDEB 549;Travel Writing;3
+EDEB 550;Regional Contexts for Turkish Literature I: The Balkans;3
+EDEB 591;Thesis Seminar I;2
+EDEB 592;Thesis Seminar II;2
+EDEB 593;Seminar;0
+EDEB 599;Master's Thesis;0
+EDEB 605;East and West in Turkish Literature;3
+EDEB 606;Sufi Seminar;3
+EDEB 607;Modernism in Turkish Literature;3
+EDEB 608;Critical Approaches to Turkish Literature;3
+EDEB 611;Literature and Society I;3
+EDEB 615;Love in Turkish Literature;3
+EDEB 619;World Fiction;3
+EDEB 622;Seminar on Ahmet Hamdi Tanpýnar;3
+EDEB 623;Theories of Literary Translation;3
+EDEB 693;Pre-Thesis Seminar;0
+EDEB 699;Ph.D. Dissertation;0
+HUM 111;Cultures Civilizations and Ideas I;3
+HUM 112;Cultures Civilizations and Ideas II;3
+HUM 331;Humanities and Social Science Honors Seminar;3
+TURK 101;Turkish I;2
+TURK 102;Turkish II;2
+LNG 111;Spanish I;3
+LNG 112;Spanish II;3
+LNG 113;Spanish III;3
+LNG 114;Intermediate Spanish I;3
+LNG 115;Intermediate Spanish II;3
+LNG 116;Intermediate Spanish III;3
+LNG 117;Intermediate Spanish IV;3
+LNG 121;French I;3
+LNG 122;French II;3
+LNG 123;French III;3
+LNG 124;Intermediate French I;3
+LNG 125;Intermediate French II;3
+LNG 126;Intermediate French III;3
+LNG 127;Intermediate French IV;3
+LNG 128;Communication Skills in French I;3
+LNG 129;Communication Skills in French II;3
+LNG 131;German I;3
+LNG 132;German II;3
+LNG 133;German III;3
+LNG 134;Intermediate German I;3
+LNG 135;Intermediate German II;3
+LNG 136;Intermediate German III;3
+LNG 137;Intermediate German IV;3
+LNG 138;Communication Skills in German I;3
+LNG 139;Communication Skills in German II;3
+LNG 141;Italian I;3
+LNG 142;Italian II;3
+LNG 143;Italian III;3
+LNG 144;Intermediate Italian I;3
+LNG 161;Russian I;3
+LNG 162;Russian II;3
+LNG 163;Russian III;3
+LNG 164;Intermediate Russian I;3
+LNG 165;Intermediate Russian II;3
+LNG 166;Intermediate Russian III;3
+LNG 167;Intermediate Russian IV;3
+LNG 171;Turkish I;3
+LNG 172;Turkish II;3
+LNG 173;Turkish III;3
+LNG 174;Intermediate Turkish I;3
+LNG 178;Advanced Turkish I;3
+LNG 179;Advanced Turkish II;3
+LNG 191;Arabic I;3
+LNG 192;Arabic II;3
+LNG 193;Arabic III;3
+LNG 211;Persian I;3
+LNG 212;Persian II;3
+LNG 221;Chinese I;3
+LNG 222;Chinese II;3
+LNG 223;Chinese III;3
+LNG 231;Korean I;3
+LNG 232;Korean II;3
+LNG 233;Korean III;3
+LNG 241;Japanese I;3
+LNG 242;Japanese II;3
+LNG 243;Japanese III;3
+LNG 244;Intermediate Japanese I;3
+LNG 245;Intermediate Japanese II;3
+LNG 321;Readings in French I;3
+LNG 322;Readings in French II;3
+LNG 331;Readings in German I;3
+LNG 332;Readings in German II;3
+LAW 101;Introduction to Law;3
+LAW 102;Roman Law;3
+LAW 103;Constitutional Law;3
+LAW 104;Turkish Constitutional Law;3
+LAW 105;Civil Law: Introductory Provisions and Natural Persons;3
+LAW 106;Legal Persons and Family Law;3
+LAW 201;Law of Obligations I;3
+LAW 202;Law of Obligations II;3
+LAW 203;Criminal Law I;3
+LAW 204;Criminal Law II;3
+LAW 205;Administrative Law;3
+LAW 206;Administrative Judiciary;3
+LAW 210;Basic Concepts of Law;3
+LAW 211;Basic Concepts of Law;3
+LAW 214;Introduction to Turkish Public Law;3
+LAW 216;Introduction to Anglo-American Law;2
+LAW 301;Civil Procedure I;3
+LAW 302;Civil Procedure II;3
+LAW 303;Public International Law;3
+LAW 304;Private International Law;3
+LAW 305;Law of Property I;3
+LAW 306;Law of Property II;3
+LAW 307;Commercial Enterprise Law;3
+LAW 308;Company Law;3
+LAW 309;Law of Obligations Special Provisions;3
+LAW 313;Business Law;3
+LAW 315;Administrative Law;3
+LAW 353;Introduction to Environmental Law;3
+LAW 354;Modern Contracts Law;3
+LAW 358;Criminal Law Special Provisions;3
+LAW 359;Comparative Private Law;3
+LAW 361;Legal Ethics and Judiciary Ethics;3
+LAW 363;International Migration Law;3
+LAW 365;Legal Philosophy;3
+LAW 366;Legal Sociology;3
+LAW 374;Parliamentary Law;3
+LAW 375;Turkish Constitutional History;3
+LAW 376;Selected Topics in English Law;3
+LAW 383;Introduction to Law and Economics of Competition and Regulatory Policies;3
+LAW 384;Criminology;3
+LAW 386;Law, Film and Literature;3
+LAW 388;Refugee Law and International Protection;3
+LAW 390;Individual Application to the Constitutional Court (Merits and Procedure);3
+LAW 392;Criminal Law and Cultural Properties;3
+LAW 394;International Law of the Sea;3
+LAW 395;World Trade Organization Law;3
+LAW 401;Law of Negotiable Instruments;3
+LAW 402;Insurance Law;3
+LAW 403;Inheritance Law;3
+LAW 405;International Human Rights Law;3
+LAW 406;International Commercial Arbitration;2
+LAW 407;Tax Law;3
+LAW 408;Competition Law;3
+LAW 409;Intellectual Property Law;3
+LAW 410;Enforcement and Bankruptcy Law;3
+LAW 411;Criminal Procedure;3
+LAW 412;Labor Law;3
+LAW 413;European Union Law;3
+LAW 415;Recognition and Enforcement of Foreign Arbitral Awards;3
+LAW 416;Introduction to Contract Law;3
+LAW 417;Public Procurement Contracts;3
+LAW 418;International Sales Law;3
+LAW 419;International Law and Armed Conflict;3
+LAW 420;Turkish International Arbitration Law;3
+LAW 421;Internet Law;3
+LAW 422;Maritime Law;3
+LAW 423;Law of Capital Markets;3
+LAW 427;Citizenship and Foreigners Law;3
+LAW 441;Monetary Law;3
+LAW 445;Advertising Law;3
+LAW 447;Moot Court I;3
+LAW 448;Moot Court II;3
+LAW 450;Introduction to Economic Analysis of Law;3
+LAW 451;Moot Court III;3
+LAW 452;Moot Court IV;3
+LAW 454;Consumer Law;3
+LAW 457;Law of International Carriage of Goods;3
+LAW 460;Legal Aspects of EU-Turkey Relations;3
+LAW 465;Settlement of Energy Investment Disputes;3
+LAW 466;Non-Contractual Liability Law;3
+LAW 467;International Family Law;3
+LAW 468;Legal and Administrative Aspects of Privatization;3
+LAW 469;Humanitarian Law;3
+LAW 472;Patent Law;3
+LAW 474;Occupational Health and Safety;3
+LAW 476;Legal Research, Analysis and Writing;3
+LAW 478;International Social Law: ILO and European Social Charter;3
+LAW 480;The European Convention on Human Rights and Its Effect on Turkish Law;3
+LAW 497;Individual Study;2
+LAW 499;Individual Study;3
+LAW 501;Economic Analysis of Law;3
+LAW 503;Economics of Competition;3
+LAW 504;Competition Law;3
+LAW 505;Economic Regulation and Law;3
+LAW 506;Energy Law and Policy;3
+LAW 507;Public Economic Law;3
+LAW 508;Telecommunications Law;3
+LAW 509;Term Project;0
+LAW 510;Banking Regulation Law;3
+LAW 520;Capital Markets and Market Abuse;3
+LAW 530;Unfair Competition;3
+LAW 534;Patent Law;3
+LAW 540;Real Estate Market Law;3
+LAW 544;The Legal Framework of Social Dialogue;3
+LAW 546;Current Issues in Labor Law;3
+LAW 550;Fundamentals of Legal Thought;3
+LAW 551;Current Issues on Immovable Property Law;3
+LAW 552;Current Issues on Consumer Law;3
+LAW 553;Current Issues on Law of Contracts;3
+LAW 554;Current Issues on Law of Torts;3
+LAW 555;Corporate Governance in Joint Stock Companies;3
+LAW 556;Company Law and Competition Law Aspects of Mergers and Divisions;3
+LAW 557;Law Applicable to Contractual Obligations;3
+LAW 558;Procedural Irregularities in International Commercial Arbitration;3
+LAW 559;Liability of Organs and Members in Companies;3
+LAW 560;Lis Pendens in International Civil Procedure;3
+LAW 561;New Developments in Non-Performance Law;3
+LAW 562;Legal and Administrative Aspects of Privatization;3
+LAW 563;General Theory of Crime;3
+LAW 564;Status of International Treaties in Domestic Legal Orders;3
+LAW 565;Protection Mechanism of the ECHR (Historical Process and Implementation);3
+LAW 566;Legal Certainty and Protection of Legitimate Expectations in EU Administrative Law;3
+LAW 567;Parliamentary Law;3
+LAW 568;Contemporary Governmental Systems;3
+LAW 569;Public Procurement Contracts;3
+LAW 570;Principles of Social Security Law;3
+LAW 571;Law Applicable to Contractual Obligations;3
+LAW 572;General Conflict of Laws Rules;3
+LAW 573;Establishment and Implementation of Contracts;3
+LAW 590;Pre-Thesis Seminar;0
+LAW 599;Master's Thesis;0
+LAW 601;Civil Law (Real Securities);3
+LAW 605;Constitutional Judiciary;3
+LAW 606;Fiscal Law;3
+LAW 608;Servitudes and Competition Law;3
+LAW 609;Criminal Law;3
+LAW 610;ICSID Arbitration;3
+LAW 612;Bound Enterprises Law ( Company Groups Law );3
+LAW 613;ECHR Law;3
+LAW 615;Doctrine of Innominate Contracts;3
+LAW 618;Social Law;3
+LAW 619;Comparative Constitutional Law;3
+LAW 622;Preservation of Assets in Corporations;3
+LAW 624;International Procedure;3
+LAW 632;Legal Acts (Transactions) Theory;3
+LAW 633;Individual Application to the Constitutional Court (Merits and Procedure);3
+LAW 634;Methodology of Law;0
+LAW 638;Concept of Ownership and Limitations of Ownership related with Land;3
+LAW 640;Individual Application to the Constitutional Court (Merits and Procedure);3
+LAW 642;Freedom of Contract;3
+LAW 680;Current Issues on Private Law;3
+LAW 682;Current Issues on Public Law;3
+LAW 689;Pre-Thesis Seminar;0
+LAW 699;Ph.D. Dissertation;0
+MSC 100;Freshman Concert;0
+MSC 101;Department Seminar I;0
+MSC 102;Department Seminar II;0
+MSC 103;Orchestra/Ensemble I;2
+MSC 104;Orchestra/Ensemble II;2
+MSC 105;Ear Training for Non-Majors I;2
+MSC 106;Ear Training for Non-Majors II;2
+MSC 107;Individual Music Studies;2
+MSC 108;Individual Music Studies II;2
+MSC 110;Music Appreciation;3
+MSC 111;Composition I;4
+MSC 112;Composition II;4
+MSC 113;Techniques of Notation and Instrumentation;3
+MSC 114;Fundamentals of Orchestration;3
+MSC 131;Instrument I;5
+MSC 132;Instrument II;5
+MSC 133;Chamber Music I;2
+MSC 134;Chamber Music II;2
+MSC 150;Singing for Theatre I;1
+MSC 151;Singing Voice I;5
+MSC 152;Singing Voice II;5
+MSC 171;Theory I: Fundamentals;3
+MSC 172;Theory II: Harmony and Voice Leading;3
+MSC 173;Origins of Western Music: From Antiquities to Baroque;3
+MSC 174;Opera and Instrumental Music in the Baroque Period;3
+MSC 181;Ear Training I;2
+MSC 182;Ear Training II;2
+MSC 183;Keyboard Skills I;1
+MSC 184;Keyboard Skills II;1
+MSC 200;Sophomore Concert;0
+MSC 201;Department Seminar III;0
+MSC 202;Department Seminar IV;0
+MSC 203;Orchestra/Ensemble III;2
+MSC 204;Orchestra/Ensemble IV;2
+MSC 207;Individual Music Studies III;2
+MSC 208;Individual Music Studies IV;2
+MSC 211;Composition III;4
+MSC 212;Composition IV;4
+MSC 213;Advanced Orchestration I;3
+MSC 214;Advanced Orchestration II;3
+MSC 231;Instrument III;5
+MSC 232;Instrument IV;5
+MSC 233;Chamber Music III;2
+MSC 234;Chamber Music IV;2
+MSC 250;Singing for Theatre II;1
+MSC 251;Singing Voice III;5
+MSC 252;Singing Voice IV;5
+MSC 253;Opera Studies I;1
+MSC 254;Opera Studies II;1
+MSC 271;Theory III: Modal Counterpoint;3
+MSC 272;Theory IV: Classical Form;3
+MSC 273;Music in Europe during the Age of the Enlightenment;3
+MSC 274;19th Century Music and Modernity;3
+MSC 281;Ear Training III;2
+MSC 282;Ear Training IV;2
+MSC 283;Keyboard Skills III;2
+MSC 284;Keyboard Skills IV;2
+MSC 300;Junior Concert;0
+MSC 301;Department Seminar V;0
+MSC 302;Department Seminar VI;0
+MSC 303;Orchestra/Ensemble V;2
+MSC 304;Orchestra/Ensemble VI;2
+MSC 311;Composition V;4
+MSC 312;Composition VI;4
+MSC 315;Score Reading I;2
+MSC 316;Score Reading II;2
+MSC 321;Tonal Counterpoint;3
+MSC 322;Post - Tonal Theory;3
+MSC 323;Theory and Analysis of Sonata Forms;3
+MSC 324;Form and Chromatic Harmony in 19th Century Music;3
+MSC 326;Conducting I;3
+MSC 331;Instrument V;5
+MSC 332;Instrument VI;5
+MSC 333;Chamber Music V;2
+MSC 334;Chamber Music VI;2
+MSC 351;Singing Voice V;5
+MSC 352;Singing Voice VI;5
+MSC 373;History of 20th Century Music;3
+MSC 374;Traditional Turkish Music and Divan Music;3
+MSC 383;Keyboard Skills V;2
+MSC 384;Keyboard Skills VI;2
+MSC 386;Introduction to Composition;3
+MSC 399;Summer Practice;0
+MSC 400;Senior Concert;0
+MSC 401;Department Seminar VII;0
+MSC 402;Department Seminar VIII;0
+MSC 403;Orchestra/Ensemble VII;2
+MSC 404;Orchestra/ Ensemble VIII;2
+MSC 411;Composition VII;5
+MSC 412;Composition VIII: Graduation Project;5
+MSC 415;Score Reading III;3
+MSC 416;Score Reading IV;3
+MSC 421;Theory and Analysis of Contemporary Music;3
+MSC 425;Conducting II;3
+MSC 426;Conducting III;3
+MSC 427;Conducting IV;3
+MSC 431;Instrument VII;5
+MSC 432;Instrument VIII: Graduation Concert;5
+MSC 433;Chamber Music VII;2
+MSC 434;Chamber Music VIII;2
+MSC 451;Singing Voice VII;5
+MSC 452;Singing VIII: Graduation Concert;5
+MSC 453;Opera Studies III;1
+MSC 454;Opera Studies IV;1
+MSC 459;Opera Studies V;1
+MSC 460;Opera Studies VI;1
+MSC 473;Contemporary Turkish Music;3
+MSC 474;Music of Igor Stravinsky;3
+MSC 476;Studies on Modality;3
+MSC 477;Contemporary Notational Techniques;3
+MSC 478;Source Readings in Music;3
+MSC 479;Modern Music Before 1945;3
+MSC 480;Modern Music After 1945;3
+MSC 481;Contemporary Turkish Piano Music;3
+MSC 482;Piano Literature;3
+MSC 487;Introduction to Electroacoustic Music;3
+MSC 500;Department Seminar;0
+MSC 511;Music Performance and Interpretation I;3
+MSC 512;Conducting I;3
+MSC 513;Music Composition I;3
+MSC 515;Music Theory;3
+MSC 517;Tonal Music Topics and Analysis;3
+MSC 521;Master's Lecture Recital;3
+MSC 525;Bilkent Ensembles;3
+MSC 527;Masters Theory Presentation;3
+MSC 531;Music Performance and Interpretation II;3
+MSC 532;Conducting II;3
+MSC 533;Music Composition II;3
+MSC 535;Contemporary Instrumentation and Performance Practice;3
+MSC 537;Studies in History of Western Music;3
+MSC 541;Master's Final Concert;3
+MSC 550;Department Seminar;0
+MSC 551;Music Performance and Interpretation;3
+MSC 553;Music Composition;3
+MSC 561;Music Performance and Interpretation;3
+MSC 563;Music Composition;3
+MSC 567;New Music Topics and Analysis;3
+MSC 568;Theoretical Studies in Tonal Music;3
+MSC 569;History of Tonal Music Theory;3
+MSC 570;Introduction to Schenkerian Analysis;3
+MSC 571;Contextual Perspectives in History of Western Music;3
+MSC 572;Perspectives in Musical Analysis;3
+MSC 577;Symphony after Beethoven;3
+MSC 578;History of Stage Music;3
+MSC 580;Topics in Contemporary Turkish Music;3
+MSC 581;Music Performance and Interpretation;3
+MSC 583;Music Composition;3
+MSC 584;Music of the Last Decade;3
+MSC 585;Opera in the 20th Century;3
+MSC 586;Microtonality;3
+MSC 587;Advanced Electroacoustic Music;3
+MSC 599;Master's Thesis;0
+MSC 691;Doctoral Lecture Concert;3
+MSC 695;Doctoral Proficiency Concert;3
+MSC 699;Proficiency in Art Graduation Project;0
+MUS 866;Graduation Project;0
+THEA 181;Acting Techniques I-Singing;3
+THEA 182;Acting Techniques II-Singing;3
+THR 101;Fundamentals of Acting I;4
+THR 102;Fundamentals of Acting II;4
+THR 103;Voice and Speech I;3
+THR 104;Voice and Speech II;3
+THR 105;Movement and Combat I;3
+THR 106;Movement and Combat II;3
+THR 107;Dance I;2
+THR 108;Dance II;2
+THR 111;Phonetics I;2
+THR 112;Phonetics II;2
+THR 201;Acting I;4
+THR 202;Acting II;4
+THR 203;Voice and Speech III;3
+THR 204;Voice and Speech IV;3
+THR 205;Movement and Combat III;3
+THR 206;Movement and Combat IV;3
+THR 227;History of Theater I: Origins to Renaissance;3
+THR 228;History of Theater II: Renaissance to 20th Century;3
+THR 301;Acting III;4
+THR 302;Acting IV;4
+THR 303;Voice and Speech V;3
+THR 327;History of Theater III: 20th Century;3
+THR 331;Textual Interpretation and Analysis I;3
+THR 332;Textual Interpretation and Analysis II;3
+THR 333;On Camera Acting;3
+THR 336;Speech on Stage;3
+THR 337;Theatre Project;3
+THR 338;Alternative Theatre Lab;3
+THR 339;Playwriting;3
+THR 399;Summer Practice;0
+THR 428;History of Turkish Theater;3
+THR 431;Textual Interpretation and Analysis III;3
+THR 432;Textual Interpretation and Analysis IV;3
+THR 451;Senior Project I;5
+THR 452;Senior Project II;5
+CHEM 100;General Chemistry;4
+CHEM 101;Principles of Chemistry I;4
+CHEM 102;Principles of Chemistry II;4
+CHEM 120;Orientation for Chemistry Majors;1
+CHEM 201;Materials Science and Technology;3
+CHEM 211;Analytical Chemistry I;3
+CHEM 212;Analytical Chemistry II;3
+CHEM 213;Analytical Chemistry Laboratory I;2
+CHEM 214;Analytical Chemistry Laboratory II;2
+CHEM 231;Organic Chemistry I;3
+CHEM 232;Organic Chemistry II;3
+CHEM 233;Principles of Organic Chemistry I;3
+CHEM 235;Organic Chemistry Laboratory I;2
+CHEM 236;Organic Chemistry Laboratory II;2
+CHEM 301;Processing and Applications of Materials;3
+CHEM 320;Physical Chemistry Laboratory;3
+CHEM 323;Physical Chemistry I;3
+CHEM 324;Physical Chemistry II;3
+CHEM 325;Principles of Physical Chemistry I;3
+CHEM 326;Principles of Physical Chemistry II;3
+CHEM 327;Quantum Chemistry I;3
+CHEM 328;Quantum Chemistry II;3
+CHEM 340;Inorganic Chemistry Laboratory;3
+CHEM 341;Inorganic Chemistry I;3
+CHEM 342;Inorganic Chemistry II;3
+CHEM 399;Summer Practice;0
+CHEM 421;Principles and Chemical Applications of Thermodynamics;3
+CHEM 422;Introduction to Statistical Thermodynamics;3
+CHEM 430;Food Chemistry;3
+CHEM 431;Organic Chemistry III;3
+CHEM 450;Applied Quantum Chemistry;3
+CHEM 456;Advanced Instrumental Analysis;3
+CHEM 460;Environmental Chemistry;3
+CHEM 461;Fundamentals of Biochemistry;3
+CHEM 470;Polymer Chemistry;3
+CHEM 490;Structure and Reactivity of Organic Compounds;3
+CHEM 491;Senior Project I;4
+CHEM 492;Senior Project II;4
+CHEM 499;Individual Study;3
+CHEM 503;Chemical Kinetics;3
+CHEM 504;Group Theory and its Chemical Applications;3
+CHEM 505;Nuclear and Radiochemistry;3
+CHEM 506;Chemical Thermodynamics;3
+CHEM 507;Statistical Thermodynamics;3
+CHEM 511;Quantum Chemistry I;3
+CHEM 513;Environmental Radiochemistry;3
+CHEM 515;Molecular Spectroscopy;3
+CHEM 521;Surface Chemistry I;3
+CHEM 523;Concepts in Materials Science;3
+CHEM 531;Advanced Organic Chemistry I;3
+CHEM 532;Advanced Organic Chemistry II;3
+CHEM 533;Physical Organic Chemistry;3
+CHEM 534;NMR Spectroscopy for Organic Structure Determination;3
+CHEM 537;Supramolecular Chemistry;3
+CHEM 541;Advanced Inorganic Chemistry I;3
+CHEM 542;Advanced Inorganic Chemistry II;3
+CHEM 551;Special Topics in Physical Chemistry I;3
+CHEM 552;Special Topics in Physical Chemistry II;3
+CHEM 556;Advanced Instrumental Analysis;3
+CHEM 561;Special Topics in Inorganic Chemistry I;3
+CHEM 562;Special Topics in Inorganic Chemistry II;3
+CHEM 571;Special Topics in Organic Chemistry I;3
+CHEM 572;Special Topics in Organic Chemistry II;3
+CHEM 573;Polymer Chemistry I;3
+CHEM 574;Polymer Chemistry II;3
+CHEM 580;Advanced Photochemistry;3
+CHEM 586;Electrochemistry;3
+CHEM 591;Graduate Seminar I;0
+CHEM 599;Master's Thesis;0
+CHEM 691;Advanced Seminar I;0
+CHEM 699;Ph.D. Dissertation;0
+MATH 101;Calculus I;4
+MATH 102;Calculus II;4
+MATH 103;Thinking Mathematically I;3
+MATH 104;Thinking Mathematically II;3
+MATH 105;Introduction to Calculus I;4
+MATH 106;Introduction to Calculus II;4
+MATH 110;Discrete Mathematics;3
+MATH 123;Abstract Mathematics I;4
+MATH 124;Abstract Mathematics II;4
+MATH 132;Discrete and Combinatorial Mathematics;3
+MATH 202;Complex Analysis;3
+MATH 210;Finite and Discrete Mathematics;3
+MATH 213;Advanced Calculus I;4
+MATH 214;Advanced Calculus II;4
+MATH 215;Mathematical Analysis;3
+MATH 220;Linear Algebra;3
+MATH 223;Linear Algebra I;3
+MATH 224;Linear Algebra II;3
+MATH 225;Linear Algebra and Differential Equations;4
+MATH 227;Introduction to Linear Algebra;3
+MATH 230;Probability and Statistics for Engineers;3
+MATH 240;Differential Equations;3
+MATH 241;Engineering Mathematics I;4
+MATH 242;Engineering Mathematics II;4
+MATH 250;Introduction to Probability;3
+MATH 253;Introduction to Number Theory;3
+MATH 255;Probability and Statistics;4
+MATH 260;Introduction to Statistics;3
+MATH 262;Statistical Methodology;3
+MATH 264;Statistics for Social Sciences;3
+MATH 291;Summer Project I;3
+MATH 300;A Concise History of Mathematics;3
+MATH 302;Complex Analysis II;3
+MATH 310;Topology;3
+MATH 313;Real Analysis I;3
+MATH 314;Real Analysis II;3
+MATH 315;Fourier Analysis;3
+MATH 316;Orthogonal Functions;3
+MATH 319;Interpolation and Approximation;3
+MATH 323;Algebra I;3
+MATH 324;Algebra II;3
+MATH 325;Representation Theory;3
+MATH 330;Applied Mathematics;3
+MATH 337;Introduction to Soliton Theory;3
+MATH 340;Mathematical Foundations of Statistical Mechanics;3
+MATH 345;Differential Geometry I;3
+MATH 346;Differential Geometry II;3
+MATH 391;Summer Project II;3
+MATH 399;Summer Practice;0
+MATH 414;Functional Analysis;3
+MATH 415;Analysis of Differentiable Functions;3
+MATH 420;Introduction to Cryptography;3
+MATH 430;Introduction to Complex Geometry;3
+MATH 431;Introduction to Algebraic Geometry;3
+MATH 443;Partial Differential Equations;3
+MATH 445;Analysis on Manifolds;3
+MATH 453;Algebraic Number Theory;3
+MATH 473;Introduction to Financial Mathematics;3
+MATH 474;Financial Mathematics;3
+MATH 491;Senior Project I;3
+MATH 492;Senior Project II;3
+MATH 499;Individual Study;3
+MATH 500;Mathematical Analysis;3
+MATH 501;Real Analysis I;3
+MATH 502;Real Analysis II;3
+MATH 503;Complex Analysis I;3
+MATH 504;Complex Analysis II;3
+MATH 505;Introduction to Complex Geometry;3
+MATH 507;Introduction to Potential Theory;3
+MATH 509;Topics in Operator Theory;3
+MATH 523;Algebra I;3
+MATH 524;Algebra II;3
+MATH 525;Group Representations;3
+MATH 527;Topics in Representation Theory;3
+MATH 535;Topology of Algebraic Varieties;3
+MATH 541;Manifold Theory;3
+MATH 543;Methods of Applied Mathematics I;3
+MATH 544;Methods of Applied Mathematics II;3
+MATH 550;Probability and Statistics;3
+MATH 551;Topics in Number Theory;3
+MATH 553;Ergodic Theory;3
+MATH 573;Introduction to Financial Mathematics;3
+MATH 574;Financial Mathematics;3
+MATH 583;Topics in Mathematical Physics I;3
+MATH 585;Topics in Ordinary Differential Equations I;3
+MATH 586;Topics in Ordinary Differential Equations II;3
+MATH 591;Topics in Algebraic Geometry I;3
+MATH 597;Graduate Seminars in Mathematics I;0
+MATH 598;Graduate Seminars in Mathematics II;0
+MATH 599;Master's Thesis;0
+MATH 601;Topics in Real Analysis;3
+MATH 605;Topics in Functional Analysis I;3
+MATH 606;Selected Topics in Functional Analysis;3
+MATH 609;Several Complex Variables;3
+MATH 611;Algebraic Topology I;3
+MATH 612;Fibre Bundles I;3
+MATH 616;Topics in Group Theory;3
+MATH 624;Compact Lie Groups;3
+MATH 625;Homological Algebra;3
+MATH 626;Cohomology of Groups;3
+MATH 630;Commutative Algebra;3
+MATH 631;Topics in Commutative Algebra;3
+MATH 632;Computational Commutative Algebra;3
+MATH 633;Algebraic Geometry I;3
+MATH 641;Topics in Soliton Theory I;3
+MATH 645;Riemannian Geometry I;3
+MATH 646;Riemannian Geometry II;3
+MATH 653;Introduction to Analytical Number Theory;3
+MATH 654;Analytic Number Theory;3
+MATH 699;Ph.D. Dissertation;0
+MBG 101;Biology I;4
+MBG 102;Biology II;4
+MBG 105;Principles of Biology;3
+MBG 110;Introduction to Modern Biology;3
+MBG 209;Principles of Genetics;3
+MBG 210;Genetics;4
+MBG 222;Fundamentals of Molecular Genetics;3
+MBG 223;Molecular Genetics;4
+MBG 230;Experimental Approaches in Molecular and Cellular Biology;3
+MBG 291;Summer Practice I;0
+MBG 301;Molecular Biology of the Cell I;3
+MBG 302;Molecular Biology of the Cell II;4
+MBG 311;Biochemistry I;4
+MBG 312;Biochemistry II;3
+MBG 316;Physiology;3
+MBG 324;Molecular Biology of the Gene;4
+MBG 326;Introduction to Bioinformatics;3
+MBG 338;Microbiology;4
+MBG 391;Summer Practice II;0
+MBG 416;Science and Ethics;3
+MBG 418;Genomics;4
+MBG 452;Practical Biology;3
+MBG 470;Immunology;3
+MBG 472;Introduction to Stem Cells;3
+MBG 473;Biomolecules, Biomaterials and Bioprocesses;3
+MBG 474;Introduction to Computational Biology;3
+MBG 481;Protein Chemistry;3
+MBG 483;Developmental Biology;3
+MBG 485;DNA Damage and Repair Mechanisms;3
+MBG 487;Special Techniques in Molecular Genetics;3
+MBG 488;Introduction to Human Genetics;3
+MBG 489;Genetics and Biology of Cancer;3
+MBG 491;Senior Project I;3
+MBG 492;Senior Project II;3
+MBG 502;Advanced Cellular Biology;3
+MBG 503;Advanced Molecular Biology;3
+MBG 505;Advanced Molecular Genetics;3
+MBG 509;Special Topics in Molecular Biology I;3
+MBG 510;Special Topics in Molecular Biology II;3
+MBG 513;Bioinformatics;3
+MBG 516;Biomolecules, Biomaterials and Bioprocesses;3
+MBG 523;Recent Developments in Molecular Biology;3
+MBG 599;Master's Thesis;0
+MBG 601;Human Genetics;3
+MBG 602;Molecular and Cellular Immunology;3
+MBG 603;Molecular Bases of Cancer;3
+MBG 612;Special Topics in Genetics I;3
+MBG 613;Special Topics in Genetics II;3
+MBG 615;Recent Advances in Molecular Biology;3
+MBG 616;Experimental Molecular Biology and Genetics I;3
+MBG 617;Experimental Molecular Biology and Genetics II;3
+MBG 623;Seminars in Molecular Genetics I;0
+MBG 624;Seminars in Molecular Genetics II;0
+MBG 699;Ph.D. Dissertation;0
+PHYS 101;General Physics I;4
+PHYS 102;General Physics II;4
+PHYS 107;Basic Physics I;4
+PHYS 108;Basic Physics II;4
+PHYS 117;Basic Physics: Mechanics;3
+PHYS 118;Basic Physics II;3
+PHYS 120;Orientation for Physics Majors;1
+PHYS 124;Freshman Project;2
+PHYS 200;Physics for Poets;3
+PHYS 211;Waves, Optics and Thermodynamics;4
+PHYS 212;Modern Physics;4
+PHYS 218;Analytical Mechanics;3
+PHYS 226;Quantum Physics;3
+PHYS 242;Advanced Calculus for Applications in Physics;3
+PHYS 252;Introductory Astronomy;3
+PHYS 280;Physics for Administrators;3
+PHYS 291;Summer Practice;0
+PHYS 315;Electromagnetic Theory I;3
+PHYS 316;Electromagnetic Theory II;3
+PHYS 325;Quantum Mechanics I;3
+PHYS 326;Quantum Mechanics II;3
+PHYS 333;Classical Thermodynamics;3
+PHYS 334;Statistical Physics;3
+PHYS 371;Numerical Methods in Physics;3
+PHYS 372;Methods in Computational Physics;3
+PHYS 374;Experimental Methods of Physics;4
+PHYS 375;Experimental Optics;4
+PHYS 405;Theory of General Relativity;3
+PHYS 415;Optics;3
+PHYS 420;Nanoscience and Nanotechnology I;3
+PHYS 421;Nanoscience and Nanotechnology II;3
+PHYS 438;Atomic Molecular and Optical Physics;3
+PHYS 440;Introduction to Quantum Transport Phenomena in Solids;3
+PHYS 442;Quantum optics;3
+PHYS 445;Condensed Matter Physics I;3
+PHYS 446;Condensed Matter Physics II;3
+PHYS 447;Optical Properties of Solids;3
+PHYS 448;Magnetic Properties of Solids;3
+PHYS 449;Group Theory;3
+PHYS 451;Introduction to Many Body Theory;3
+PHYS 452;Elementary Excitations in Solids;3
+PHYS 453;Nuclear and Particle Physics;3
+PHYS 457;Special Topics in Theoretical Physics;3
+PHYS 458;Introduction to the Physics of Low- Dimensional Systems;3
+PHYS 464;Optical Trapping and Optical Manipulation;3
+PHYS 465;Semiconductor Device Physics;3
+PHYS 467;Optoelectronic Innovative Designs;3
+PHYS 475;Semiconductor Device Physics;3
+PHYS 476;Quantum Electronics;3
+PHYS 477;Ultrafast and Non Linear Optics;3
+PHYS 480;Field Theory;3
+PHYS 481;Theory of Relativity;3
+PHYS 482;Elementary Particles;3
+PHYS 491;Senior Project I;4
+PHYS 492;Senior Project II;4
+PHYS 515;Advanced Optics;3
+PHYS 520;Nanoscience and Nanotechnology I;3
+PHYS 521;Nanoscience and Nanotechnology II;3
+PHYS 522;Self-Organized and Self-Assembled Systems from Nanoscience to Biotechnology;3
+PHYS 538;Atomic molecular and optical physics;3
+PHYS 541;Electromagnetic Theory I;3
+PHYS 542;Electromagnetic Theory II;3
+PHYS 543;Advanced Quantum Mechanics I;3
+PHYS 544;Advanced Quantum Mechanics II;3
+PHYS 545;Solid State Theory I;3
+PHYS 546;Solid State Theory II;3
+PHYS 547;Advances in Condensed Matter Physics I;3
+PHYS 550;Physics of Semiconductor Devices;3
+PHYS 551;Analytical Mechanics;3
+PHYS 552;Statistical Physics;3
+PHYS 553;Methods of Mathematical Physics I;3
+PHYS 556;Scattering Theory;3
+PHYS 557;Special Topics in Mathematical Physics I;3
+PHYS 559;Group Theory;3
+PHYS 561;Special Topics in Condensed Matter Physics I;3
+PHYS 562;Special Topics in Condensed Matter Physics II;3
+PHYS 564;Optical Trapping and Optical Manipulation;3
+PHYS 565;Special Topics in Condensed Matter Physics III;3
+PHYS 566;Special Topics in Condensed Matter Physics IV;3
+PHYS 571;Special Topics in Applied Physics I;3
+PHYS 572;Special Topics in Applied Physics II;3
+PHYS 573;Special Topics in Applied Physics III;3
+PHYS 574;Special Topics in Applied Physics IV: Optoelectronics and Integrated Optics;3
+PHYS 577;Ultrafast and Non Linear Optics;3
+PHYS 578;Nonlinear Dynamics and Chaos;3
+PHYS 580;Experimental Methods in Applied Physics;3
+PHYS 591;Graduate Seminar I;0
+PHYS 592;Graduate Seminar II;0
+PHYS 599;Master's Thesis;0
+PHYS 612;Quantum optics;3
+PHYS 651;Many Body Theory;3
+PHYS 652;Advanced Statistical Mechanics;3
+PHYS 661;Special Topics in Solid State Physics;3
+PHYS 673;Nuclear and Particle Physics;3
+PHYS 699;Ph.D. Dissertation;0
+ACC 170;Computer Applications II;3
+ACC 173;Computer Applications I;3
+ACC 175;Mathematics I;3
+ACC 178;Mathematics II;3
+ACC 253;Accounting I;3
+ACC 258;Accounting II;3
+ACC 271;Data Structures and Object Oriented Programming I;3
+ACC 272;Data Structures and Object Oriented Programming II;3
+ACC 360;Cost Accounting and Computerized Accounting Applications;3
+ACC 374;Information Systems Security and Information Distortion (in French);3
+ACC 391;Summer Practice;0
+ACC 425;Commercial Law;3
+ACC 454;International Auditing;3
+ACC 463;International Financial Reporting Standards (IFRS);3
+ACC 464;Taxation and Turkish Tax Law;3
+ACC 473;Management Information Systems (in French);3
+ACC 476;Graduation Project in Accounting Information Systems and Auditing;3
+ACC 491;Summer Practice;0
+BF 161;Economics I;3
+BF 162;Economics II;3
+BF 173;Computer Applications I;3
+BF 174;Computer Applications II;3
+BF 264;Elements of Money and Banking I;3
+BF 271;Applications in Probability and Statistics I;3
+BF 276;Applications in Probability and Statistics II;3
+BF 362;Banking Operations;3
+BF 365;Elements of Money and Banking II;3
+BF 372;Computerized Financial Applications;3
+BF 383;Ethics, Responsibility and Citizenship;3
+BF 384;Introduction to Financial Econometrics;3
+BF 391;Summer Practice;0
+BF 422;Graduation Project in Banking and Finance;3
+BF 469;Banking Law;3
+BF 473;Computerized Brokerage and Dealer Operations;3
+BF 480;Applied Capital Markets;3
+BF 488;Computerized Insurance Services and Operations;3
+BF 491;Summer Practice;0
+SFL 101;French I;3
+SFL 102;French II;3
+SFL 103;French III;3
+SFL 201;French IV;3
+SFL 202;French V;3
+SFL 207;Interpersonal Communication in Business Settings;3
+SFL 208;Written Business Communication;3
+SFL 307;English in Business Communication;3
+SFL 308;English in Organizational Communication;3
+SFL 335;French in Financial Communication I;3
+SFL 336;French in Financial Communication II;3
+SFL 392;Common European Framework of Reference Level B2;0
+SFL 405;Intercultural Business Communication;3
+SFL 406;Integrated Marketing Communications (IMC);3
+SFL 431;French in Corporate Communication;3
+SFL 432;Organizational Communication in French;3
+SFL 490;Common European Framework of Reference Level B1;0
+BIM 103;Keyboarding;3
+BIM 108;Business Statistics;3
+BIM 121;Business Computer Applications I;3
+BIM 122;Business Computer Applications II;3
+BIM 201;Problem Solving and Programming;4
+BIM 205;Principles of Accounting;3
+BIM 206;Managerial Accounting;3
+BIM 215;Database Management Systems;4
+BIM 223;Business Communications;3
+BIM 224;Managerial Communications;3
+BIM 242;Web Site Design;4
+BIM 260;Financial Statement Analysis;3
+BIM 261;Corporate Finance;4
+BIM 306;Decision Analysis;3
+BIM 310;Semester Internship;9
+BIM 316;Information Systems Analysis;3
+BIM 341;Web Based Application Development;4
+BIM 375;Public Relations Management;4
+BIM 390;Summer Internship;0
+BIM 402;Advanced Selling Skills;3
+BIM 405;Organizational Behavior;3
+BIM 406;International Business;3
+BIM 416;Negotiation Skills;3
+BIM 417;Senior Seminars in Business Information Management;3
+BIM 418;Management Information Systems;3
+BIM 419;Strategic Brand Management;3
+BIM 423;Advertising Management;3
+BIM 425;Contemporary Practices in Human Resources Management;3
+BIM 426;Small Group and Team Communication;3
+BIM 441;UFO: Undefined Fields in creating Opinion;3
+BIM 450;Multimedia Techniques;3
+BIM 492;Strategic Management;4
+BIM 497;Business Transformation with ERP Systems;3
+CTIS 151;Introduction to Programming;5
+CTIS 152;Algorithms and Data Structures;5
+CTIS 163;Discrete Mathematics;4
+CTIS 164;Technical Mathematics with Programming;4
+CTIS 165;Fundamentals of Information Systems;3
+CTIS 166;Information Technologies;3
+CTIS 186;Business Computer Applications;3
+CTIS 221;Object Oriented Programming;5
+CTIS 222;Object Oriented Analysis and Design;4
+CTIS 255;Web Technologies I;3
+CTIS 256;Web Technologies II;3
+CTIS 259;Database Management Systems and Applications;5
+CTIS 261;Computer Networks I;4
+CTIS 262;Computer Networks II;4
+CTIS 264;Computer Algorithms;3
+CTIS 285;Hospitality Industry Computerization;3
+CTIS 286;Food and Beverage Computer Applications;3
+CTIS 290;Summer Internship;0
+CTIS 310;Semester Internship;9
+CTIS 359;Principles of Software Engineering;3
+CTIS 363;Ethical and Social Issues in Information Systems;3
+CTIS 365;Applied Data Analysis;4
+CTIS 386;Travel Technologies;3
+CTIS 411;Senior Project I;2
+CTIS 417;Software Design Patterns;3
+CTIS 456;Senior Project II;4
+CTIS 468;Individual Study;2
+CTIS 469;Individual Study;4
+CTIS 475;Architecting Scalable Software;3
+CTIS 476;Software Architectures for Simulation and Modelling;3
+CTIS 477;Systems Engineering;3
+CTIS 478;Advanced Web Technologies;3
+CTIS 479;C# Programming in the .NET Framework;3
+CTIS 480;iOS Application Development;4
+CTIS 483;Database Administration;4
+CTIS 484;Advanced Topics in Programming;4
+CTIS 485;Information Storage and Management;4
+CTIS 486;Linux System Administration;3
+CTIS 487;Mobile Application Development;4
+CTIS 488;Data Analysis;3
+CTIS 489;Interactive Computer Graphics Programming;3
+CTIS 491;Software Validation Verification and Testing;3
+CTIS 492;Information Systems Outsourcing;3
+CTIS 493;Information Systems Project Management;3
+CTIS 496;Computer and Network Security;3
+CTIS 497;Scaling Networks;4
+CTIS 498;Wide Area Networks;4
+THM 105;Introduction to Business;3
+THM 106;Principles of Accounting;3
+THM 121;Business Mathematics;2
+THM 125;Introduction to Hotel Operations;3
+THM 163;Dynamics of Tourism;3
+THM 164;Calculus;3
+THM 166;Health Studies;1
+THM 168;Nutrition and Sanitation;2
+THM 172;World Travel Destinations;3
+THM 202;Principles of Management;3
+THM 242;Social Psychology;3
+THM 243;Rooms Division Management;3
+THM 244;Food Production Techniques;3
+THM 245;Purchasing and Cost Analysis;3
+THM 246;Restaurant Service;3
+THM 247;Food and Beverage Management;3
+THM 252;Tourist Attractions of Turkey;3
+THM 300;Summer Internship;0
+THM 301;Human Resources Management;3
+THM 303;Statistics and Quantitative Methods;3
+THM 309;Principles of Marketing;3
+THM 310;Semester Internship;9
+THM 313;Hospitality Management Accounting;3
+THM 323;International Cuisines;3
+THM 326;Tourism Policies and Sustainability;3
+THM 327;Event Management;3
+THM 348;Service Operations Management;3
+THM 390;Art of Pastry;3
+THM 391;Business Forecasting;3
+THM 392;Nutrition and General Health;3
+THM 396;Case Studies for Tourism;3
+THM 398;Food and Beverage Culture;3
+THM 403;Organizational Behavior;3
+THM 409;Tourism Law;3
+THM 415;Finance;3
+THM 418;Senior Project;3
+THM 419;Tourism Management Applications;3
+THM 420;Seminars on Tourism Industry;1
+THM 423;Tourism Economics;3
+THM 453;Total Quality Management;3
+THM 475;Strategic Marketing for the Hospitality Industry;3
+THM 476;Research Techniques;3
+THM 477;Planning for Profit;3
+THM 487;Concept and Design for Food and Beverage Outlets;3
+THM 493;Nutritional Anthropology;3
+THM 494;Digital Marketing;3
+THM 499;Individual Study;3
+IELTS 100;International English Language Testing System;0
+PREP 111;Elementary;0
+PREP 121;Pre-intermediate;0
+PREP 131;Intermediate;0
+PREP 141;Upper-intermediate;0
+PREP 151;Pre- faculty;0
+PREP 155;Pre-faculty;0
+PREP 160;PAE Practice Course;0
+TOEFL 100;Test of English as a Foreign Language;0
+ELS 301;Advanced Communication Skills;3
+ELS 499;Individual Study;3
+ENG 101;English and Composition I;3
+ENG 102;English and Composition II;3
+ENG 117;Advanced English Grammar I;3
+ENG 118;Advanced English Grammar II;3
+ENG 206;Business Communications;3
+ENG 312;Introduction to Creative Writing;3
+ENG 401;Technical Report Writing and Presentation;2
+ENG 406;Graduate Writing and Presentation Seminar;3
+GE 100;Orientation;1
+GE 250;Collegiate Activities Program I;0
+GE 251;Collegiate Activities Program II;1
+GE 301;Science Technology and Society;2
+GE 304;Technology Society and Professional Development Seminar;1
+GE 400;Transdisciplinary Senior Project;6
+GE 401;Innovative Design and Entrepreneurship I;3
+GE 402;Innovative Design and Entrepreneurship II;3
+GE 461;Introduction to Data Science;3
+GE 471;Business and Legal Considerations for Technology Startups;3
+GE 500;Research Methods and Academic Publication Ethics;0
+GE 510;Fundamentals of Social Research Design;3
+GE 511;Philosophy of Social Inquiry;3
+GE 512;Quantitative Data Analysis;3
+GE 513;Qualitative Research Methods;3
+GE 590;Academic Practices;0
+GE 690;Academic Practices;0
+TTP 501;ICELT 1;0
+TTP 502;ICELT 2;0
+TTP 503;ICELT 3;0
+TTP 521;DELTA 1;0
+TTP 522;DELTA 2;0
+TTP 523;DELTA 3;0
+TTP 533;DELTA-18 3;0
+TTP 534;DELTA-18 4;0
+EEPS 501;Economic Analysis of Energy Issues;3
+EEPS 502;Empirical Methods in Energy Economics;3
+EEPS 503;Energy Policy Analysis;3
+EEPS 504;Policy Skills and Strategic Analysis;3
+EEPS 505;Energy Geopolitics and Policy;3
+EEPS 506;Energy Security and Foreign Policy Analysis;3
+EEPS 508;Guided Academic Writing;3
+EEPS 509;Pre-Thesis Seminar;0
+EEPS 510;Introduction to Energy Law;3
+EEPS 512;Settlement of Energy Disputes and Arbitration;3
+EEPS 513;Oil and Gas Law;3
+EEPS 514;Advanced Topics in Energy Geopolitics;3
+EEPS 515;Environmental and Resource Economics;3
+EEPS 516;Oil and Gas Markets;3
+EEPS 517;Energy Crises and the World of Energy;3
+EEPS 518;Geopolitics of Energy in Eurasia;3
+EEPS 520;Data Analysis in Energy Markets;3
+EEPS 522;Renewable Energy, Carbon Markets and Clean Technology;3
+EEPS 523;Legal and Administrative Aspects of Energy;3
+EEPS 524;Designing Future Electricity and Gas Trading Markets;3
+EEPS 525;Trading and Risk Management in Energy Markets;3
+EEPS 526;Economics of Regulation and Financing of Energy Investment;3
+EEPS 528;Cyber Security and Energy Security: Understanding Paradigm Shift;3
+EEPS 530;Sustainable Energy and Energy Mix;3
+EEPS 590;Term Project;0
+EEPS 599;Master's Thesis;0
+EEPS 5318;Seminar in Energy Economics;3
+MSN 500;Concepts in Materials Science;3
+MSN 501;Atomic Structure, Mechanical and Thermal Properties of Materials;3
+MSN 510;Imaging Techniques in Materials Science and Nanotechnology;3
+MSN 512;Biomedical Materials;3
+MSN 513;Micro and Nanostructured Sensors;3
+MSN 514;Computational Methods for Material Science and Complex Systems;3
+MSN 517;Nanoscience and Nanotechnology I;3
+MSN 518;Nanoscience and Nanotechnology II;3
+MSN 519;Applications of Microfluidics and Nanofluidics;3
+MSN 521;Biotechnology;3
+MSN 522;Synthetic Biology;3
+MSN 523;Nanocomposites;3
+MSN 524;Introduction to Mesoscopic Solid-State Materials;3
+MSN 525;Self- Organized and Self-Assembled Systems From Nanoscience to Biotechnology;3
+MSN 526;Functional Surfaces and Interfaces;3
+MSN 527;Quantitative Approaches in Biophysics and Life Sciences;3
+MSN 533;Nanomaterials for Energy Conversion and Storage;3
+MSN 534;Polymeric Materials;3
+MSN 541;Nanobiotechnology;3
+MSN 551;Introduction to Micro and Nanofabrication;3
+MSN 555;Laser Physics: from Principles to Applications for Materials Science;3
+MSN 598;Seminar I;0
+MSN 599;Master's Thesis;0
+MSN 698;Seminar II;0
+MSN 699;Ph.D. Thesis;0
+NSC 510;Sensory and Motor Systems Neuroscience;3
+NSC 511;Cellular, Molecular and Developmental Neuroscience;3
+NSC 512;Research Methods in Neuroscience;3
+NSC 513;Behavioral Neuroscience;3
+NSC 514;Affective Neuroscience;3
+NSC 515;Computational and Numerical Methods in Neuroscience;3
+NSC 516;Neurobiology of Aging;3
+NSC 546;Computing for Neuroscience;3
+NSC 591;Pro-thesis Seminar I;0
+NSC 599;Neuroscience Master's Thesis;0
+NSC 612;Selected Topics in Neuroscience I;3
+NSC 613;Selected Topics in Neuroscience II;3
+NSC 670;Lab in Cellular, Molecular, and Developmental Neuroscience;3
+NSC 671;Lab in Sensory and Motor Systems Neuroscience;3
+NSC 691;Pro-thesis Seminar II;0
+NSC 699;Neuroscience Ph.D. Dissertation;0
+Course Code;Course Name;Credits

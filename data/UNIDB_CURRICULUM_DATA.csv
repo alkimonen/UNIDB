@@ -1,0 +1,1444 @@
+1;CS 115;Introduction to Programming in Python;4
+1;ENG 101;English and Composition I;3
+1;GE 100;Orientation;1
+1;MATH 101;Calculus I;4
+1;CS 101;Algorithms and Programming I;4
+1;ENG 101;English and Composition I;3
+1;GE 100;Orientation;1
+1;MATH 101;Calculus I;4
+1;MBG 110;Introduction to Modern Biology;3
+1;TURK 101;Turkish I;2
+1;CS 102;Algorithms and Programming II;4
+1;ENG 102;English and Composition II;3
+1;MATH 102;Calculus II;4
+1;MATH 132;Discrete and Combinatorial Mathematics;3
+1;TURK 102;Turkish II;2
+1;CS 201;Fundamental Structures of Computer Science I;3
+1;CS 223;Digital Design;4
+1;GE 250;Collegiate Activities Program I;
+1;HIST 200;History of Turkey;4
+1;HUM 111;Cultures Civilizations and Ideas I;3
+1;PHYS 101;General Physics I;4
+1;CS 202;Fundamental Structures of Computer Science II;3
+1;CS 224;Computer Organization;4
+1;GE 251;Collegiate Activities Program II;1
+1;HUM 112;Cultures Civilizations and Ideas II;3
+1;MATH 225;Linear Algebra and Differential Equations;4
+1;PHYS 102;General Physics II;4
+1;CS 299;Summer Training I;
+1;CS 315;Programming Languages;3
+1;CS 319;Object-Oriented Software Engineering;4
+1;GE 301;Science Technology and Society;2
+1;MATH 230;Probability and Statistics for Engineers;3
+1;CS 342;Operating Systems;4
+1;CS 353;Database Systems;3
+1;EEE 391;Basics of Signals and Systems;3
+1;ENG 401;Technical Report Writing and Presentation;2
+1;CS 399;Summer Training II;
+1;CS 473;Algorithms I;3
+1;IE 400;Principles of Engineering Management;3
+2;EEE 530;Digital Communications Theory;3
+2;EEE 533;Random Processes;3
+2;EEE 536;Advanced Computer Networks;3
+2;EEE 596;Graduate Research Project in Telecommunications and Networking;
+3;EEE 699;Ph.D. Dissertation;
+3;GE 500;Research Methods and Academic Publication Ethics;
+3;GE 690;Academic Practices;
+4;CS 115;Introduction to Programming in Python;4
+4;ENG 101;English and Composition I;3
+4;GE 100;Orientation;1
+4;MATH 101;Calculus I;4
+4;PHYS 101;General Physics I;4
+4;TURK 101;Turkish I;2
+4;ENG 102;English and Composition II;3
+4;MATH 102;Calculus II;4
+4;PHYS 102;General Physics II;4
+4;TURK 102;Turkish II;2
+4;EEE 102;Introduction to Digital Circuit Design;4
+4;EEE 211;Analog Electronics;4
+4;GE 250;Collegiate Activities Program I;
+4;HIST 200;History of Turkey;4
+4;HUM 111;Cultures Civilizations and Ideas I;3
+4;MATH 241;Engineering Mathematics I;4
+4;EEE 202;Circuit Theory;4
+4;EEE 212;Microprocessors;4
+4;GE 251;Collegiate Activities Program II;1
+4;HUM 112;Cultures Civilizations and Ideas II;3
+4;MATH 242;Engineering Mathematics II;4
+4;EEE 299;Summer Training I;
+4;EEE 313;Electronic Circuit Design;4
+4;EEE 321;Signals and Systems;4
+4;EEE 351;Engineering Electromagnetics;3
+4;EEE 342;Feedback Control Systems;3
+4;ENG 401;Technical Report Writing and Presentation;2
+4;MATH 255;Probability and Statistics;4
+4;EEE 399;Summer Training II;
+4;GE 301;Science Technology and Society;2
+4;GE 304;Technology Society and Professional Development Seminar;1
+5;EEE 530;Digital Communications Theory;3
+5;EEE 533;Random Processes;3
+5;EEE 536;Advanced Computer Networks;3
+5;EEE 596;Graduate Research Project in Telecommunications and Networking;
+6;EEE 699;Ph.D. Dissertation;
+6;GE 500;Research Methods and Academic Publication Ethics;
+6;GE 690;Academic Practices;
+7;ENG 101;English and Composition I;3
+7;GE 100;Orientation;1
+7;IE 102;A Process Outlook for Industrial Engineering;3
+7;MATH 101;Calculus I;4
+7;PHYS 101;General Physics I;4
+7;TURK 101;Turkish I;2
+7;ENG 102;English and Composition II;3
+7;MATH 102;Calculus II;4
+7;MATH 132;Discrete and Combinatorial Mathematics;3
+7;PHYS 102;General Physics II;4
+7;TURK 102;Turkish II;2
+7;CS 115;Introduction to Programming in Python;4
+7;GE 250;Collegiate Activities Program I;
+7;HUM 111;Cultures Civilizations and Ideas I;3
+7;IE 272;Manufacturing Processes and Operations Analysis;4
+7;MATH 225;Linear Algebra and Differential Equations;4
+7;MATH 250;Introduction to Probability;3
+7;GE 251;Collegiate Activities Program II;1
+7;HIST 200;History of Turkey;4
+7;HUM 112;Cultures Civilizations and Ideas II;3
+7;IE 202;Introduction to Modeling and Optimization;3
+7;IE 342;Engineering Economic Analysis;3
+7;MATH 260;Introduction to Statistics;3
+7;CS 281;Computers and Data Organization;3
+7;ECON 207;Economics Theory for Engineers;3
+7;GE 301;Science Technology and Society;2
+7;IE 299;Summer Training I;
+7;IE 303;Modeling and Methods in Optimization;3
+7;IE 325;Stochastic Models;3
+7;IE 375;Production Planning;3
+7;ENG 401;Technical Report Writing and Presentation;2
+7;IE 324;Simulation;4
+7;IE 376;Production Information Systems;3
+7;IE 380;Quality Assurance and Reliability;3
+7;IE 496;Seminar in Production Systems;
+7;IE 399;Summer Training II;
+8;GE 500;Research Methods and Academic Publication Ethics;
+8;GE 590;Academic Practices;
+8;IE 500;Mathematics of Operations Research;3
+8;IE 505;Mathematical Programming;3
+8;IE 523;Probabilistic Analysis;3
+8;IE 599;Master's Thesis;
+9;GE 500;Research Methods and Academic Publication Ethics;
+9;GE 690;Academic Practices;
+9;IE 521;Stochastic Processes;3
+9;IE 699;Ph.D. Dissertation;
+9;MATH 500;Mathematical Analysis;3
+10;ENG 101;English and Composition I;3
+10;GE 100;Orientation;1
+10;MATH 101;Calculus I;4
+10;ME 101;Fundamentals of Mechanical Engineering;2
+10;PHYS 101;General Physics I;4
+10;TURK 101;Turkish I;2
+10;ENG 102;English and Composition II;3
+10;MATH 102;Calculus II;4
+10;ME 102;Introduction to Systems Engineering;3
+10;PHYS 102;General Physics II;4
+10;TURK 102;Turkish II;2
+10;CS 115;Introduction to Programming in Python;4
+10;GE 250;Collegiate Activities Program I;
+10;HUM 111;Cultures Civilizations and Ideas I;3
+10;MATH 220;Linear Algebra;3
+10;ME 211;Thermo-Fluids Engineering I;4
+10;ME 231;Mechanics and Materials I;4
+10;GE 251;Collegiate Activities Program II;1
+10;HUM 112;Cultures Civilizations and Ideas II;3
+10;MATH 240;Differential Equations;3
+10;ME 212;Thermo-Fluids Engineering II;4
+10;ME 232;Mechanics and Materials II;4
+10;CHEM 201;Materials Science and Technology;3
+10;ENG 401;Technical Report Writing and Presentation;2
+10;MATH 230;Probability and Statistics for Engineers;3
+10;ME 299;Summer Practice I;
+10;ME 341;Dynamics and Control I;4
+10;ME 371;Measurement and Instrumentation;3
+10;HIST 200;History of Turkey;4
+10;MBG 110;Introduction to Modern Biology;3
+10;ME 342;Dynamics and Control II;4
+10;ME 381;Design and Manufacturing;3
+10;ME 384;Mechatronic Systems;3
+10;GE 301;Science Technology and Society;2
+10;ME 399;Summer Practice II;
+10;ME 481;Mechanical Engineering Design I;3
+10;ME 482;Mechanical Engineering Design II;3
+11;GE 500;Research Methods and Academic Publication Ethics;
+11;GE 590;Academic Practices;
+11;ME 599;Master's Thesis;
+12;GE 500;Research Methods and Academic Publication Ethics;
+12;GE 690;Academic Practices;
+12;ME 699;Ph.D. Dissertation;
+13;ADA 131;Architectural Drawing;3
+13;ENG 101;English and Composition I;3
+13;FA 101;Basic Design I;6
+13;FA 171;Introduction to Art and Culture I;3
+13;GE 100;Orientation;1
+13;MATH 101;Calculus I;4
+13;ADA 134;Designing with Digital Media;3
+13;ENG 102;English and Composition II;3
+13;FA 102;Basic Design II;6
+13;MATH 102;Calculus II;4
+13;PHYS 101;General Physics I;4
+13;ADA 263;History of Built Environment I;3
+13;ARCH 201;Architectural Design Studio I;6
+13;ARCH 251;Architectural Building Systems;3
+13;GE 250;Collegiate Activities Program I;
+13;HIST 200;History of Turkey;4
+13;TURK 101;Turkish I;2
+13;ADA 264;History of Built Environment II;3
+13;ARCH 202;Architectural Design Studio II;6
+13;ARCH 231;Statics and Strength of Materials;3
+13;ARCH 252;Construction and Materials;4
+13;GE 251;Collegiate Activities Program II;1
+13;TURK 102;Turkish II;2
+13;ARCH 290;Summer Practice I;
+13;ARCH 301;Architectural Design Studio III;6
+13;ARCH 321;Architecture and Society;3
+13;ARCH 331;Structural Design I;3
+13;ARCH 341;Architectural Lighting and Acoustics;3
+13;ARCH 302;Architectural Design Studio IV;6
+13;ARCH 332;Structural Design II;3
+13;ARCH 342;Environmental Technology;3
+13;ARCH 390;Summer Practice II;
+13;ARCH 401;Architectural Design Studio V;6
+13;ARCH 411;Conservation of Historical Environments;3
+13;ARCH 402;Architectural Design Studio VI;6
+13;ARCH 418;Professional Practice;3
+14;ARCH 590;Graduate Seminar;
+14;ARCH 599;Master's Thesis;
+14;GE 500;Research Methods and Academic Publication Ethics;
+14;GE 590;Academic Practices;
+15;COMD 101;Visual Communication Design I;6
+15;CS 153;Introduction to Computer Graphics;3
+15;ENG 101;English and Composition I;3
+15;FA 171;Introduction to Art and Culture I;3
+15;GE 100;Orientation;1
+15;SOC 101;Introduction to Sociology;3
+15;TURK 101;Turkish I;2
+15;COMD 102;Visual Communication Design II;6
+15;CS 154;Introduction to Web Design;3
+15;ENG 102;English and Composition II;3
+15;FA 172;Introduction to Art and Culture II;3
+15;PSYC 102;Introduction to Social Psychology;3
+15;TURK 102;Turkish II;2
+15;COMD 203;Media Studies I;3
+15;COMD 205;Basic Photography;3
+15;CS 155;Interactive Media Design and Development;3
+15;GE 250;Collegiate Activities Program I;
+15;HIST 200;History of Turkey;4
+15;HUM 111;Cultures Civilizations and Ideas I;3
+15;MATH 264;Statistics for Social Sciences;3
+15;COMD 204;Media Studies II;3
+15;COMD 206;Introduction to Digital Cinematography;3
+15;COMD 210;Introduction to Screenwriting;3
+15;ECON 103;Principles of Economics;3
+15;GE 251;Collegiate Activities Program II;1
+15;HUM 112;Cultures Civilizations and Ideas II;3
+15;COMD 290;Summer Practice I;
+15;COMD 305;Digital Video Production I;3
+15;COMD 321;Analysis of Moving Image;3
+15;COMD 341;Media and Society;3
+15;COMD 471;Media Ethics;3
+15;COMD 306;Digital Video Production II;3
+15;COMD 342;Popular Culture;3
+15;COMD 348;New Media;3
+15;COMD 390;Summer Practice II;
+15;COMD 481;Visual Communication Project I;4
+15;COMD 482;Visual Communication Project II;4
+16;COMD 511;Research Methods;3
+16;GE 500;Research Methods and Academic Publication Ethics;
+16;GE 590;Academic Practices;
+16;GRA 501;Graduate Studio I;3
+16;GRA 502;Graduate Studio II;3
+16;GRA 590;Seminar in Research Topics;
+16;GRA 599;Master's Thesis;
+17;ENG 101;English and Composition I;3
+17;FA 103;Drawing I;3
+17;FA 105;Foundation Studio I;6
+17;FA 171;Introduction to Art and Culture I;3
+17;GE 100;Orientation;1
+17;GRA 131;Design Tools and Techniques;3
+17;TURK 101;Turkish I;2
+17;ENG 102;English and Composition II;3
+17;FA 104;Drawing II;3
+17;FA 106;Foundation Studio II;6
+17;FA 172;Introduction to Art and Culture II;3
+17;GRA 132;Lettering and Introduction to Typography;3
+17;TURK 102;Turkish II;2
+17;FA 190;Summer Practice I;
+17;FA 201;Art Studio I;6
+17;FA 203;Drawing III;3
+17;FA 223;Visual Perception and Color;3
+17;FA 271;History of Art I;3
+17;GE 250;Collegiate Activities Program I;
+17;HIST 200;History of Turkey;4
+17;FA 202;Art Studio II;6
+17;FA 204;Drawing IV;3
+17;FA 262;Fine Arts Seminar;3
+17;FA 272;History of Art II;3
+17;GE 251;Collegiate Activities Program II;1
+17;FA 290;Summer Practice I;
+17;FA 301;Art Studio III;6
+17;FA 371;History of Art III;3
+17;GRA 225;Introduction to Visual Techniques;3
+17;FA 302;Art Studio IV;6
+17;FA 304;Special Problems in Drawing;3
+17;FA 372;History of Art IV;3
+17;FA 361;Philosophy of Art I;3
+17;FA 390;Summer Practice II;
+17;FA 401;Art Studio V;6
+17;FA 421;Analysis of Art Work I;3
+17;FA 402;Art Studio VI - Degree Project;9
+17;FA 422;Analysis of Art Work II;3
+17;FA 462;Senior Seminar;3
+18;ENG 101;English and Composition I;3
+18;FA 103;Drawing I;3
+18;FA 105;Foundation Studio I;6
+18;FA 171;Introduction to Art and Culture I;3
+18;GE 100;Orientation;1
+18;GRA 131;Design Tools and Techniques;3
+18;TURK 101;Turkish I;2
+18;ENG 102;English and Composition II;3
+18;FA 104;Drawing II;3
+18;FA 106;Foundation Studio II;6
+18;FA 172;Introduction to Art and Culture II;3
+18;GRA 132;Lettering and Introduction to Typography;3
+18;TURK 102;Turkish II;2
+18;FA 271;History of Art I;3
+18;GE 250;Collegiate Activities Program I;
+18;GRA 201;Graphic Design I;6
+18;GRA 211;Typography I;3
+18;GRA 218;Essentials of Photography;3
+18;GRA 225;Introduction to Visual Techniques;3
+18;HIST 200;History of Turkey;4
+18;FA 272;History of Art II;3
+18;GE 251;Collegiate Activities Program II;1
+18;GRA 202;Graphic Design II;6
+18;GRA 212;Typography II;3
+18;GRA 316;Interface Design Studio;3
+18;GRA 317;Motion Design Studio;3
+18;FA 361;Philosophy of Art I;3
+18;GRA 290;Summer Practice I;
+18;GRA 301;Graphic Design III;6
+18;GRA 341;History of Graphic Art;3
+18;GRA 302;Graphic Design IV;6
+18;GRA 344;Psychology of Advertisement;3
+18;GRA 347;Design Issues;3
+18;FA 421;Analysis of Art Work I;3
+18;GRA 390;Summer Practice II;
+18;GRA 401;Graphic Design V;6
+18;MAN 333;Marketing Principles;3
+18;FA 422;Analysis of Art Work II;3
+18;GRA 402;Graphic Design VI;8
+18;GRA 423;Professional Practice;3
+19;ADA 131;Architectural Drawing;3
+19;ENG 101;English and Composition I;3
+19;FA 101;Basic Design I;6
+19;FA 107;Drawing and Visual Expressions;3
+19;FA 171;Introduction to Art and Culture I;3
+19;GE 100;Orientation;1
+19;TURK 101;Turkish I;2
+19;ADA 134;Designing with Digital Media;3
+19;ENG 102;English and Composition II;3
+19;FA 102;Basic Design II;6
+19;FA 172;Introduction to Art and Culture II;3
+19;TURK 102;Turkish II;2
+19;ADA 263;History of Built Environment I;3
+19;GE 250;Collegiate Activities Program I;
+19;HIST 200;History of Turkey;4
+19;IAED 201;Interior Design Studio I;6
+19;IAED 211;Media for Representation;3
+19;IAED 251;Construction and Materials I;4
+19;ADA 264;History of Built Environment II;3
+19;GE 251;Collegiate Activities Program II;1
+19;IAED 202;Interior Design Studio II;6
+19;IAED 221;Human Factors;3
+19;IAED 244;Lighting Design;3
+19;IAED 252;Construction and Materials II;4
+19;IAED 290;Summer Practice I;
+19;IAED 301;Interior Design Studio III;6
+19;IAED 341;Architectural Acoustics and Fire Safety;3
+19;IAED 351;Detailing Studio;3
+19;IAED 463;History of Furniture;3
+19;IAED 302;Interior Design Studio IV;6
+19;IAED 322;People and Environment;3
+19;IAED 342;Sustainable Design for Interiors;3
+19;IAED 381;Product Detailing;3
+19;IAED 390;Summer Practice II;
+19;IAED 401;Interior Design Studio V;6
+19;IAED 415;Advanced Detailing Studio;3
+19;IAED 402;Interior Design Studio VI;6
+19;IAED 418;Interior Design: Professional Practice;3
+20;GE 500;Research Methods and Academic Publication Ethics;
+20;GE 590;Academic Practices;
+20;IAED 501;Graduate Studio I;3
+20;IAED 502;Graduate Studio II;3
+20;IAED 511;Research Methods I;3
+20;IAED 590;Seminar in Research Topics;
+20;IAED 599;Master's Thesis;
+21;GE 500;Research Methods and Academic Publication Ethics;
+21;GE 690;Academic Practices;
+21;IAED 501;Graduate Studio I;3
+21;IAED 502;Graduate Studio II;3
+21;IAED 511;Research Methods I;3
+21;IAED 690;Seminar in Advanced Research Topics;
+21;IAED 699;Ph.D. Dissertation;
+22;ADA 131;Architectural Drawing;3
+22;ENG 101;English and Composition I;3
+22;FA 101;Basic Design I;6
+22;FA 107;Drawing and Visual Expressions;3
+22;FA 171;Introduction to Art and Culture I;3
+22;GE 100;Orientation;1
+22;TURK 101;Turkish I;2
+22;ADA 134;Designing with Digital Media;3
+22;ENG 102;English and Composition II;3
+22;FA 102;Basic Design II;6
+22;FA 172;Introduction to Art and Culture II;3
+22;MATH 101;Calculus I;4
+22;TURK 102;Turkish II;2
+22;ADA 263;History of Built Environment I;3
+22;ARCH 231;Statics and Strength of Materials;3
+22;GE 250;Collegiate Activities Program I;
+22;LAUD 190;Summer Practice I;
+22;LAUD 201;Design Studio I:Site Design;6
+22;LAUD 221;Introduction to Urban Concepts;3
+22;LAUD 251;Introduction to Landscape Theory;3
+22;ADA 264;History of Built Environment II;3
+22;GE 251;Collegiate Activities Program II;1
+22;LAUD 202;Design Studio II: Housing;6
+22;LAUD 232;Landscape Representation;3
+22;LAUD 241;Landscape Plants;3
+22;LAUD 252;Site Design Techniques;3
+22;HIST 200;History of Turkey;4
+22;LAUD 242;Flora of Turkey;3
+22;LAUD 290;Summer Practice II;
+22;LAUD 301;Design Studio III: Small Town;6
+22;LAUD 351;Landscape Construction and Materials;3
+22;LAUD 371;Analysis of Urban Environment I;3
+22;IAED 322;People and Environment;3
+22;LAUD 302;Design Studio IV: City Center;6
+22;LAUD 342;Planting Design Studio;3
+22;LAUD 372;Analysis of Urban Environment;3
+22;LAUD 390;Summer Practice III;
+22;LAUD 401;Senior Design Studio I: Open Space Network;6
+22;LAUD 471;Urban Sociology;3
+22;LAUD 481;Landscape Ecology Studio;3
+22;LAUD 402;Senior Design Studio II: Graduation Projects;6
+22;LAUD 404;Senior Design Research;3
+22;LAUD 418;Professional Practice;3
+23;ECON 101;Introduction to Economics I;4
+23;ENG 101;English and Composition I;3
+23;GE 100;Orientation;1
+23;MAN 101;Introduction to Business I;3
+23;MATH 105;Introduction to Calculus I;4
+23;SOC 101;Introduction to Sociology;3
+23;TURK 101;Turkish I;2
+23;ECON 102;Introduction to Economics II;4
+23;ENG 102;English and Composition II;3
+23;MAN 102;Introduction to Business II;3
+23;MATH 106;Introduction to Calculus II;4
+23;PSYC 100;Introduction to Psychology;3
+23;TURK 102;Turkish II;2
+23;ECON 221;Introduction to Probability and Statistics I;3
+23;GE 250;Collegiate Activities Program I;
+23;HUM 111;Cultures Civilizations and Ideas I;3
+23;MAN 213;Principles of Financial Accounting;4
+23;MATH 227;Introduction to Linear Algebra;3
+23;ECON 222;Introduction to Probability and Statistics II;3
+23;ENG 206;Business Communications;3
+23;GE 251;Collegiate Activities Program II;1
+23;HIST 200;History of Turkey;4
+23;HUM 112;Cultures Civilizations and Ideas II;3
+23;MAN 256;Introduction to Management Science;3
+23;MAN 262;Organizational Behavior;3
+23;LAW 313;Business Law;3
+23;MAN 321;Corporate Finance;3
+23;MAN 335;Fundamentals of Marketing;3
+23;MAN 341;Production Management;3
+23;MAN 361;Organization Theory;3
+23;MAN 399;Summer Practice;
+23;MAN 403;International Business;3
+23;MAN 406;Business Strategy;3
+24;MBA 500;Bilcamp;2
+24;MBA 503;Business Economics;3
+24;MBA 511;Accounting;3
+24;MBA 522;Corporate Finance;3
+24;MBA 532;Marketing Management;3
+24;MBA 542;Production and Operations Management;3
+24;MBA 553;Data Models and Decisions;3
+24;MBA 561;Managing People and Organizations;3
+24;MBA 591;Business Strategy;4
+24;MBA 592;Business Practice Project;4
+24;MBA 602;MBA Project;
+25;GE 500;Research Methods and Academic Publication Ethics;
+25;GE 511;Philosophy of Social Inquiry;3
+25;GE 690;Academic Practices;
+25;IE 500;Mathematics of Operations Research;3
+25;MAN 593;Research Paper I;
+25;MAN 594;Research Paper II;
+25;MAN 690;Pre-Thesis Seminar;
+25;MAN 699;Ph.D. Dissertation;
+26;CS 123;Introduction to Computing and Programming;3
+26;ECON 101;Introduction to Economics I;4
+26;ENG 101;English and Composition I;3
+26;GE 100;Orientation;1
+26;MATH 105;Introduction to Calculus I;4
+26;TURK 101;Turkish I;2
+26;ECON 102;Introduction to Economics II;4
+26;ENG 102;English and Composition II;3
+26;MATH 106;Introduction to Calculus II;4
+26;ECON 203;Microeconomic Theory I;3
+26;ECON 205;Macroeconomic Theory I;3
+26;ECON 221;Introduction to Probability and Statistics I;3
+26;ECON 225;Mathematics for Economists;3
+26;GE 250;Collegiate Activities Program I;
+26;HCIV 101;History of Civilization I;3
+26;GE 251;Collegiate Activities Program II;1
+26;HCIV 102;History of Civilization II;3
+26;HIST 200;History of Turkey;4
+26;ECON 301;Econometrics I;4
+26;ECON 363;History of Economic Thought;3
+26;ECON 399;Summer Training;
+26;GE 400;Transdisciplinary Senior Project;6
+27;ECON 503;Microeconomic Theory I;3
+27;ECON 504;Microeconomic Theory II;3
+27;ECON 505;Macroeconomic Theory I;3
+27;ECON 506;Macroeconomic Theory II;3
+27;ECON 591;Masters Pre-Thesis Seminar I;
+27;ECON 592;Masters Pre-Thesis Seminar II;
+27;ECON 595;Research Paper I;
+27;ECON 596;Research Paper II;
+27;ECON 599;Master's Thesis;
+27;GE 500;Research Methods and Academic Publication Ethics;
+27;GE 590;Academic Practices;
+28;ECON 691;Ph.D. Pre-Thesis Seminar I;
+28;ECON 692;Ph.D. Pre-Thesis Seminar II;
+28;ECON 695;Research Methods in Economics I;3
+28;ECON 696;Research Methods in Economics II;3
+28;ECON 699;Ph.D. Dissertation;
+28;GE 500;Research Methods and Academic Publication Ethics;
+28;GE 690;Academic Practices;
+29;GE 500;Research Methods and Academic Publication Ethics;
+29;GE 590;Academic Practices;
+29;HIST 507;Methodology in History I;3
+29;HIST 508;Methodology in History II;3
+29;HIST 599;Master's Thesis;
+29;HIST 692;Pre-Thesis Seminar;
+30;GE 500;Research Methods and Academic Publication Ethics;
+30;GE 690;Academic Practices;
+30;HIST 693;Pre-Thesis Seminar;
+30;HIST 699;Ph.D. Dissertation;
+31;ECON 107;Principles of Microeconomics;3
+31;ENG 101;English and Composition I;3
+31;GE 100;Orientation;1
+31;HCIV 101;History of Civilization I;3
+31;POLS 101;Introduction to Political Science I;3
+31;SOC 101;Introduction to Sociology;3
+31;TURK 101;Turkish I;2
+31;CS 121;Introduction to Computer Tools;3
+31;ECON 108;Principles of Macroeconomics;3
+31;ENG 102;English and Composition II;3
+31;HCIV 102;History of Civilization II;3
+31;IR 101;Introduction to World Politics;3
+31;TURK 102;Turkish II;2
+31;GE 250;Collegiate Activities Program I;
+31;HIST 200;History of Turkey;4
+31;IR 205;Diplomatic History;3
+31;IR 227;Research Methods in International Relations;3
+31;MATH 103;Thinking Mathematically I;3
+31;PHIL 243;Social and Political Philosophy I;6
+31;GE 251;Collegiate Activities Program II;1
+31;IR 236;20th Century World Politics;3
+31;IR 335;International Relations Theory;3
+31;LAW 210;Basic Concepts of Law;3
+31;MATH 104;Thinking Mathematically II;3
+31;PHIL 244;Social and Political Philosophy II;6
+31;IR 303;International Law;3
+31;IR 338;Politics of International Economy;3
+31;MATH 264;Statistics for Social Sciences;3
+31;IR 305;International Organizations;3
+31;IR 333;Foreign Policy Analysis;3
+31;IR 358;International Security;3
+31;IR 399;Summer Training;
+31;IR 439;Turkish Foreign Policy;3
+31;GE 400;Transdisciplinary Senior Project;6
+32;GE 500;Research Methods and Academic Publication Ethics;
+32;GE 510;Fundamentals of Social Research Design;3
+32;IR 501;International Relations Theory;3
+32;IR 509;Pre-thesis Seminar;
+32;IR 599;Master's Thesis;
+32;IR 5104;Issues in Turkish Foreign Policy;3
+33;GE 500;Research Methods and Academic Publication Ethics;
+33;GE 690;Academic Practices;
+33;IR 621;Current Debates in International Relations Theory;4
+33;IR 625;Advanced Diplomatic History;4
+33;IR 690;Pre-Thesis Seminar;
+33;IR 699;Ph.D. Dissertation;
+34;CS 121;Introduction to Computer Tools;3
+34;ECON 107;Principles of Microeconomics;3
+34;ENG 101;English and Composition I;3
+34;GE 100;Orientation;1
+34;HCIV 101;History of Civilization I;3
+34;POLS 101;Introduction to Political Science I;3
+34;TURK 101;Turkish I;2
+34;ECON 108;Principles of Macroeconomics;3
+34;ENG 102;English and Composition II;3
+34;HCIV 102;History of Civilization II;3
+34;IR 101;Introduction to World Politics;3
+34;MATH 264;Statistics for Social Sciences;3
+34;TURK 102;Turkish II;2
+34;HIST 200;History of Turkey;4
+34;IR 399;Summer Training;
+35;ECON 107;Principles of Microeconomics;3
+35;ENG 101;English and Composition I;3
+35;GE 100;Orientation;1
+35;HCIV 101;History of Civilization I;3
+35;POLS 101;Introduction to Political Science I;3
+35;SOC 101;Introduction to Sociology;3
+35;TURK 101;Turkish I;2
+35;ECON 108;Principles of Macroeconomics;3
+35;ENG 102;English and Composition II;3
+35;HCIV 102;History of Civilization II;3
+35;POLS 104;Introduction to Political Science II;3
+35;PSYC 102;Introduction to Social Psychology;3
+35;TURK 102;Turkish II;2
+35;GE 250;Collegiate Activities Program I;
+35;HIST 200;History of Turkey;4
+35;LAW 210;Basic Concepts of Law;3
+35;PHIL 243;Social and Political Philosophy I;6
+35;POLS 201;Fundamentals of Social Research;3
+35;GE 251;Collegiate Activities Program II;1
+35;LAW 103;Constitutional Law;3
+35;MATH 264;Statistics for Social Sciences;3
+35;PHIL 244;Social and Political Philosophy II;6
+35;CS 121;Introduction to Computer Tools;3
+35;POLS 303;Comparative Politics I;3
+35;POLS 305;Turkish Political Development;3
+35;IR 227;Research Methods in International Relations;3
+35;POLS 304;Comparative Politics II;3
+35;POLS 306;Contemporary Turkish Politics;3
+35;POLS 399;Summer Training;
+35;POLS 455;World Politics I;3
+36;GE 500;Research Methods and Academic Publication Ethics;
+36;GE 690;Academic Practices;
+36;POLS 651;Pre-Thesis Seminar I;
+36;POLS 699;Ph.D. Dissertation;
+37;GE 500;Research Methods and Academic Publication Ethics;
+37;GE 690;Academic Practices;
+37;POLS 651;Pre-Thesis Seminar I;
+37;POLS 699;Ph.D. Dissertation;
+38;CS 123;Introduction to Computing and Programming;3
+38;ENG 101;English and Composition I;3
+38;GE 100;Orientation;1
+38;MATH 105;Introduction to Calculus I;4
+38;PSYC 101;Introduction to Psychology I / Cognitive and Biological;3
+38;TURK 101;Turkish I;2
+38;GE 250;Collegiate Activities Program I;
+38;HIST 200;History of Turkey;4
+38;HUM 111;Cultures Civilizations and Ideas I;3
+38;PSYC 200;Cognitive Psychology;3
+38;PSYC 203;Statistics I;3
+38;PSYC 204;Research Methods I;3
+38;PSYC 230;Social Psychology;3
+38;GE 251;Collegiate Activities Program II;1
+38;HUM 112;Cultures Civilizations and Ideas II;3
+38;PSYC 205;Statistics II;3
+38;PSYC 206;Research Methods II;3
+38;PSYC 220;Brain and Behavior;3
+38;PSYC 240;Developmental Psychology;3
+38;PSYC 310;Perception, Attention, and Action;3
+38;PSYC 340;Learning, Remembering, and Thinking;3
+38;PSYC 350;Cognitive and Social Development;3
+38;PSYC 433;Abnormal Psychology;3
+38;PSYC 430;Clinical Psychology;3
+38;PSYC 399;Summer Training;
+38;PSYC 498;Senior Project I;3
+39;GE 500;Research Methods and Academic Publication Ethics;
+39;GE 512;Quantitative Data Analysis;3
+39;GE 590;Academic Practices;
+39;PSYC 591;Pro-Thesis Seminar I;
+39;PSYC 599;M.A. Dissertation;
+40;GE 500;Research Methods and Academic Publication Ethics;
+40;GE 690;Academic Practices;
+40;PSYC 691;Pro-Thesis Seminar II;
+40;PSYC 699;Ph.D. Dissertation;
+41;AMER 115;Methods and Texts I;3
+41;AMER 195;Introduction to American Studies I;3
+41;CS 121;Introduction to Computer Tools;3
+41;ENG 101;English and Composition I;3
+41;ENG 117;Advanced English Grammar I;3
+41;GE 100;Orientation;1
+41;TURK 101;Turkish I;2
+41;AMER 116;Methods and Texts II;3
+41;AMER 196;Introduction to American Studies II;3
+41;ENG 102;English and Composition II;3
+41;ENG 118;Advanced English Grammar II;3
+41;TURK 102;Turkish II;2
+41;AMER 207;American Texts and Contexts I;4
+41;AMER 293;American History I;3
+41;GE 250;Collegiate Activities Program I;
+41;HIST 200;History of Turkey;4
+41;HUM 111;Cultures Civilizations and Ideas I;3
+41;MATH 103;Thinking Mathematically I;3
+41;SOC 101;Introduction to Sociology;3
+41;AMER 208;American Texts and Contexts II;4
+41;AMER 294;American History II;3
+41;GE 251;Collegiate Activities Program II;1
+41;HUM 112;Cultures Civilizations and Ideas II;3
+41;PHYS 200;Physics for Poets;3
+41;POLS 104;Introduction to Political Science II;3
+41;AMER 290;Summer Training I;
+41;AMER 303;Film Studies in American Culture to 1960;4
+41;AMER 343;American Theater;3
+41;AMER 357;American Intellectual History I;3
+41;AMER 383;American Novel to 1900;3
+41;AMER 304;Film Studies in American Culture Since 1960;4
+41;AMER 358;American Intellectual History II;3
+41;AMER 374;American Poetry;3
+41;AMER 384;American Novel From 1900;3
+41;AMER 390;Summer Training II;
+41;AMER 427;Topics in Theory for American Culture;3
+41;AMER 459;Race and Ethnicity in American Culture;3
+41;AMER 406;Senior Project;3
+41;AMER 426;American Studies in a Global Context;3
+41;AMER 492;Gender Studies in American Culture;3
+42;CS 121;Introduction to Computer Tools;3
+42;ENG 101;English and Composition I;3
+42;GE 100;Orientation;1
+42;HART 111;Introduction to Archaeology;3
+42;HART 117;Ways of Seeing: Approaches to Art and Architectural History;3
+42;HART 125;Archaeological Illustration;3
+42;TURK 101;Turkish I;2
+42;ENG 102;English and Composition II;3
+42;HART 120;Human Evolution and World Prehistory;3
+42;HART 126;Archaeological Planning or Planning and Drawing in the Field;3
+42;HART 225;Cultural Anthropology;3
+42;TURK 102;Turkish II;2
+42;GE 250;Collegiate Activities Program I;
+42;HART 222;Mesopotamian Archaeology;3
+42;HART 227;Greek Archaeology;3
+42;HCIV 101;History of Civilization I;3
+42;HIST 200;History of Turkey;4
+42;GE 251;Collegiate Activities Program II;1
+42;HART 208;Roman Art and Archaeology;3
+42;HART 219;Anatolian Archaeology, Neolithic to the Iron Age;3
+42;HCIV 102;History of Civilization II;3
+42;PHIL 102;Ancient Philosophy;3
+42;ECON 103;Principles of Economics;3
+42;HART 305;Byzantine and Islamic Art and Archaeology;3
+42;HART 399;Summer Practice I;
+42;HART 325;Hittite Archaeology;3
+42;HART 401;Summer Practice II;
+42;HART 409;Museum Practices and the Preservation of Cultural Heritage;3
+42;HART 423;Cities, Monuments and Landscapes of Classical Anatolia;3
+42;HART 400;Senior Project;3
+42;HART 426;Ancient Technologies and Materials;3
+42;HART 436;Archaeological Method and Theory;3
+43;GE 500;Research Methods and Academic Publication Ethics;
+43;GE 590;Academic Practices;
+43;HART 501;Issues in Archaeological Theory;3
+43;HART 519;Research Directions for Anatolian Archaeology and Art;3
+43;HART 590;Seminar;
+43;HART 599;Master's Thesis;
+44;ELIT 139;Appreciation of Literature;3
+44;ELIT 143;Literature in its Contexts;3
+44;ENG 101;English and Composition I;3
+44;ENG 117;Advanced English Grammar I;3
+44;GE 100;Orientation;1
+44;TURK 101;Turkish I;2
+44;CS 121;Introduction to Computer Tools;3
+44;ELIT 152;Research and Writing Techniques;3
+44;ELIT 164;Concepts in Literary Studies;3
+44;ENG 102;English and Composition II;3
+44;ENG 118;Advanced English Grammar II;3
+44;TURK 102;Turkish II;2
+44;ELIT 227;Poetry and Poetics;3
+44;ELIT 273;Medieval and Renaissance Literature;3
+44;GE 250;Collegiate Activities Program I;
+44;HIST 200;History of Turkey;4
+44;MATH 103;Thinking Mathematically I;3
+44;SOC 101;Introduction to Sociology;3
+44;ELIT 230;Fiction and Narrative;3
+44;ELIT 246;Drama and Performance;3
+44;ELIT 256;Civil War, Restoration, Revolution;3
+44;GE 251;Collegiate Activities Program II;1
+44;PHYS 200;Physics for Poets;3
+44;POLS 104;Introduction to Political Science II;3
+44;ELIT 290;Summer Training I;
+44;ELIT 359;Shakespeare;3
+44;ELIT 377;Romantic Literature;3
+44;HUM 111;Cultures Civilizations and Ideas I;3
+44;ELIT 366;Victorian Literature;3
+44;ELIT 392;Literary Theory;3
+44;ENG 312;Introduction to Creative Writing;3
+44;HUM 112;Cultures Civilizations and Ideas II;3
+44;ELIT 390;Summer Training II;
+44;ELIT 421;Literature and Modernity;3
+44;ELIT 463;Postcolonial Literature;3
+44;ELIT 478;Post-War Literature;3
+44;ELIT 490;Senior Project;3
+45;ENG 101;English and Composition I;3
+45;GE 100;Orientation;1
+45;TRIN 101;Comparative Grammar (English-Turkish);3
+45;TRIN 103;Comparative Grammar (French-Turkish);3
+45;TRIN 133;Texts and Composition in French I;3
+45;TRIN 161;Introduction to Translation;3
+45;TURK 101;Turkish I;2
+45;ENG 102;English and Composition II;3
+45;TRIN 102;Applied Linguistics;3
+45;TRIN 134;Texts and Composition in French II;3
+45;TRIN 166;English-Turkish-French Translation;4
+45;TRIN 172;Computer Literacy;3
+45;TURK 102;Turkish II;2
+45;GE 250;Collegiate Activities Program I;
+45;HIST 200;History of Turkey;4
+45;HUM 111;Cultures Civilizations and Ideas I;3
+45;TRIN 205;English-American and French Culture;3
+45;TRIN 265;Translation of Economic Texts (English-Turkish-French);4
+45;TRIN 267;Sight Translation I;3
+45;TRIN 271;Business Communication;3
+45;GE 251;Collegiate Activities Program II;1
+45;HUM 112;Cultures Civilizations and Ideas II;3
+45;TRIN 212;Technology for Translators;3
+45;TRIN 236;Group Communication and Discussion;3
+45;TRIN 266;Translation of Political and Legal Texts (English-Turkish-French);4
+45;TRIN 268;Sight Translation II;3
+45;TRIN 335;Note-Taking and Consecutive Interpretation;3
+45;TRIN 337;Precis Writing in English-French;3
+45;TRIN 361;Technical Translation (English-Turkish);3
+45;TRIN 363;Technical Translation (French-Turkish);3
+45;SFL 392;Common European Framework of Reference Level B2;
+45;TRIN 330;Criticism and French Literature;3
+45;TRIN 332;Translation criticism of Anglo-American literature;3
+45;TRIN 364;Literary Translation (English-Turkish);3
+45;TRIN 366;Literary Translation (French-Turkish);3
+45;TRIN 390;Summer Practice;
+45;SFL 431;French in Corporate Communication;3
+45;TRIN 461;English-French Translation Workshop I;3
+45;TRIN 473;Turkish Diction;1
+46;CS 121;Introduction to Computer Tools;3
+46;ENG 101;English and Composition I;3
+46;GE 100;Orientation;1
+46;MATH 105;Introduction to Calculus I;4
+46;PHIL 101;Introduction to Logic;3
+46;PHIL 103;Introduction to Philosophy I;3
+46;TURK 101;Turkish I;2
+46;ECON 103;Principles of Economics;3
+46;ENG 102;English and Composition II;3
+46;MATH 106;Introduction to Calculus II;4
+46;PHIL 102;Ancient Philosophy;3
+46;PHIL 104;Introduction to Philosophy II;3
+46;TURK 102;Turkish II;2
+46;ECON 221;Introduction to Probability and Statistics I;3
+46;GE 250;Collegiate Activities Program I;
+46;HIST 200;History of Turkey;4
+46;PHIL 201;Epistemology;3
+46;PHIL 203;Rationalists;3
+46;PHYS 107;Basic Physics I;4
+46;GE 251;Collegiate Activities Program II;1
+46;PHIL 202;Ethics;3
+46;PHIL 204;Empiricists;3
+46;PSYC 100;Introduction to Psychology;3
+46;PHIL 299;Summer Training I;
+46;PHIL 303;Kant;3
+46;PHIL 307;Paradox and Infinity;3
+46;PHIL 401;Metaphysics;3
+46;PHIL 301;Political Philosophy;3
+46;PHIL 306;Philosophy of Language;3
+46;PHIL 308;Philosophy of Mind;3
+46;PHIL 304;Philosophy of Science;3
+46;PHIL 399;Summer Training II;
+46;PHIL 403;Senior Thesis I;3
+46;PHIL 302;Social and Legal Philosophy;3
+46;PHIL 402;Aesthetics;3
+46;PHIL 404;Senior Thesis II;3
+47;GE 500;Research Methods and Academic Publication Ethics;
+47;GE 590;Academic Practices;
+47;PHIL 501;Research Preparation in Philosophy I;3
+47;PHIL 502;Research Preparation in Philosophy II;3
+47;PHIL 591;Thesis Seminar;
+47;PHIL 599;M.A.Dissertation;
+48;CS 121;Introduction to Computer Tools;3
+48;ENG 101;English and Composition I;3
+48;GE 100;Orientation;1
+48;LAW 101;Introduction to Law;3
+48;LAW 103;Constitutional Law;3
+48;LAW 105;Civil Law: Introductory Provisions and Natural Persons;3
+48;MATH 119;Statistics for Lawyers;3
+48;TURK 101;Turkish I;2
+48;LAW 102;Roman Law;3
+48;LAW 104;Turkish Constitutional Law;3
+48;LAW 106;Legal Persons and Family Law;3
+48;TURK 102;Turkish II;2
+48;GE 250;Collegiate Activities Program I;
+48;LAW 201;Law of Obligations I;3
+48;LAW 203;Criminal Law I;3
+48;LAW 205;Administrative Law;3
+48;LAW 303;Public International Law;3
+48;LAW 413;European Union Law;3
+48;PHIL 243;Social and Political Philosophy I;6
+48;GE 251;Collegiate Activities Program II;1
+48;HIST 200;History of Turkey;4
+48;LAW 202;Law of Obligations II;3
+48;LAW 204;Criminal Law II;3
+48;LAW 206;Administrative Judiciary;3
+48;LAW 216;Introduction to Anglo-American Law;2
+48;PHIL 244;Social and Political Philosophy II;6
+48;LAW 301;Civil Procedure I;3
+48;LAW 305;Law of Property I;3
+48;LAW 307;Commercial Enterprise Law;3
+48;LAW 309;Law of Obligations Special Provisions;3
+48;MAN 211;Principles of Accounting I;3
+48;LAW 302;Civil Procedure II;3
+48;LAW 304;Private International Law;3
+48;LAW 306;Law of Property II;3
+48;LAW 308;Company Law;3
+48;LAW 358;Criminal Law Special Provisions;3
+48;MAN 216;Elements of Finance;3
+48;LAW 401;Law of Negotiable Instruments;3
+48;LAW 403;Inheritance Law;3
+48;LAW 407;Tax Law;3
+48;LAW 409;Intellectual Property Law;3
+48;LAW 411;Criminal Procedure;3
+48;LAW 412;Labor Law;3
+48;LAW 402;Insurance Law;3
+48;LAW 405;International Human Rights Law;3
+48;LAW 406;International Commercial Arbitration;2
+48;LAW 408;Competition Law;3
+48;LAW 410;Enforcement and Bankruptcy Law;3
+49;LAW 501;Economic Analysis of Law;3
+49;LAW 503;Economics of Competition;3
+49;LAW 504;Competition Law;3
+49;LAW 505;Economic Regulation and Law;3
+49;LAW 506;Energy Law and Policy;3
+49;LAW 507;Public Economic Law;3
+49;LAW 508;Telecommunications Law;3
+49;LAW 509;Term Project;
+49;LAW 510;Banking Regulation Law;3
+49;LAW 520;Capital Markets and Market Abuse;3
+50;GE 500;Research Methods and Academic Publication Ethics;
+50;GE 690;Academic Practices;
+50;LAW 634;Methodology of Law;
+50;LAW 680;Current Issues on Private Law;3
+50;LAW 681;Seminar on Selected Topics in Private Law;3
+50;LAW 682;Current Issues on Public Law;3
+50;LAW 683;Seminar on Selected Topics in Public Law;3
+50;LAW 699;Ph.D. Dissertation;
+51;ENG 101;English and Composition I;3
+51;GE 100;Orientation;1
+51;MSC 100;Freshman Concert;
+51;MSC 101;Department Seminar I;
+51;MSC 103;Orchestra/Ensemble I;2
+51;MSC 131;Instrument I;5
+51;MSC 133;Chamber Music I;2
+51;MSC 171;Theory I: Fundamentals;3
+51;MSC 173;Origins of Western Music: From Antiquities to Baroque;3
+51;ENG 102;English and Composition II;3
+51;MSC 102;Department Seminar II;
+51;MSC 104;Orchestra/Ensemble II;2
+51;MSC 132;Instrument II;5
+51;MSC 134;Chamber Music II;2
+51;MSC 172;Theory II: Harmony and Voice Leading;3
+51;MSC 174;Opera and Instrumental Music in the Baroque Period;3
+51;GE 250;Collegiate Activities Program I;
+51;HCIV 101;History of Civilization I;3
+51;MSC 200;Sophomore Concert;
+51;MSC 201;Department Seminar III;
+51;MSC 203;Orchestra/Ensemble III;2
+51;MSC 231;Instrument III;5
+51;MSC 233;Chamber Music III;2
+51;MSC 271;Theory III: Modal Counterpoint;3
+51;MSC 273;Music in Europe during the Age of the Enlightenment;3
+51;GE 251;Collegiate Activities Program II;1
+51;HCIV 102;History of Civilization II;3
+51;MSC 202;Department Seminar IV;
+51;MSC 204;Orchestra/Ensemble IV;2
+51;MSC 232;Instrument IV;5
+51;MSC 234;Chamber Music IV;2
+51;MSC 272;Theory IV: Classical Form;3
+51;MSC 274;19th Century Music and Modernity;3
+51;HIST 200;History of Turkey;4
+51;MSC 300;Junior Concert;
+51;MSC 301;Department Seminar V;
+51;MSC 303;Orchestra/Ensemble V;2
+51;MSC 331;Instrument V;5
+51;MSC 333;Chamber Music V;2
+51;MSC 302;Department Seminar VI;
+51;MSC 304;Orchestra/Ensemble VI;2
+51;MSC 332;Instrument VI;5
+51;MSC 334;Chamber Music VI;2
+51;MSC 399;Summer Practice;
+51;MSC 400;Senior Concert;
+51;MSC 401;Department Seminar VII;
+51;MSC 403;Orchestra/Ensemble VII;2
+51;MSC 431;Instrument VII;5
+51;MSC 433;Chamber Music VII;2
+51;TURK 101;Turkish I;2
+51;MSC 402;Department Seminar VIII;
+51;MSC 404;Orchestra/ Ensemble VIII;2
+51;MSC 432;Instrument VIII: Graduation Concert;5
+51;MSC 434;Chamber Music VIII;2
+51;TURK 102;Turkish II;2
+52;GE 500;Research Methods and Academic Publication Ethics;
+52;GE 510;Fundamentals of Social Research Design;3
+52;GE 590;Academic Practices;
+52;MSC 500;Department Seminar;
+52;MSC 521;Master's Lecture Recital;3
+52;MSC 541;Master's Final Concert;3
+52;MSC 599;Master's Thesis;
+53;ENG 101;English and Composition I;3
+53;GE 100;Orientation;1
+53;MSC 105;Ear Training for Non-Majors I;2
+53;MSC 110;Music Appreciation;3
+53;THR 101;Fundamentals of Acting I;4
+53;THR 103;Voice and Speech I;3
+53;THR 105;Movement and Combat I;3
+53;THR 111;Phonetics I;2
+53;ENG 102;English and Composition II;3
+53;MSC 106;Ear Training for Non-Majors II;2
+53;MSC 150;Singing for Theatre I;1
+53;THR 102;Fundamentals of Acting II;4
+53;THR 104;Voice and Speech II;3
+53;THR 106;Movement and Combat II;3
+53;THR 112;Phonetics II;2
+53;GE 250;Collegiate Activities Program I;
+53;HCIV 101;History of Civilization I;3
+53;MSC 250;Singing for Theatre II;1
+53;THR 201;Acting I;4
+53;THR 203;Voice and Speech III;3
+53;THR 205;Movement and Combat III;3
+53;THR 227;History of Theater I: Origins to Renaissance;3
+53;GE 251;Collegiate Activities Program II;1
+53;HCIV 102;History of Civilization II;3
+53;THR 202;Acting II;4
+53;THR 204;Voice and Speech IV;3
+53;THR 206;Movement and Combat IV;3
+53;THR 228;History of Theater II: Renaissance to 20th Century;3
+53;THR 107;Dance I;2
+53;THR 301;Acting III;4
+53;THR 303;Voice and Speech V;3
+53;THR 327;History of Theater III: 20th Century;3
+53;THR 331;Textual Interpretation and Analysis I;3
+53;THR 108;Dance II;2
+53;THR 302;Acting IV;4
+53;THR 332;Textual Interpretation and Analysis II;3
+53;THR 428;History of Turkish Theater;3
+53;HIST 200;History of Turkey;4
+53;THR 431;Textual Interpretation and Analysis III;3
+53;THR 451;Senior Project I;5
+53;TURK 101;Turkish I;2
+53;THR 432;Textual Interpretation and Analysis IV;3
+53;THR 452;Senior Project II;5
+53;TURK 102;Turkish II;2
+54;CHEM 101;Principles of Chemistry I;4
+54;CHEM 120;Orientation for Chemistry Majors;1
+54;ENG 101;English and Composition I;3
+54;GE 100;Orientation;1
+54;MATH 101;Calculus I;4
+54;PHYS 101;General Physics I;4
+54;TURK 101;Turkish I;2
+54;CHEM 102;Principles of Chemistry II;4
+54;ENG 102;English and Composition II;3
+54;MATH 102;Calculus II;4
+54;PHYS 102;General Physics II;4
+54;TURK 102;Turkish II;2
+54;CHEM 211;Analytical Chemistry I;3
+54;CHEM 231;Organic Chemistry I;3
+54;CHEM 235;Organic Chemistry Laboratory I;2
+54;CS 115;Introduction to Programming in Python;4
+54;GE 250;Collegiate Activities Program I;
+54;MBG 110;Introduction to Modern Biology;3
+54;CHEM 212;Analytical Chemistry II;3
+54;CHEM 213;Analytical Chemistry Laboratory I;2
+54;CHEM 232;Organic Chemistry II;3
+54;CHEM 236;Organic Chemistry Laboratory II;2
+54;GE 251;Collegiate Activities Program II;1
+54;HIST 200;History of Turkey;4
+54;MATH 225;Linear Algebra and Differential Equations;4
+54;CHEM 214;Analytical Chemistry Laboratory II;2
+54;CHEM 320;Physical Chemistry Laboratory;3
+54;CHEM 323;Physical Chemistry I;3
+54;CHEM 327;Quantum Chemistry I;3
+54;CHEM 341;Inorganic Chemistry I;3
+54;HUM 111;Cultures Civilizations and Ideas I;3
+54;CHEM 324;Physical Chemistry II;3
+54;CHEM 328;Quantum Chemistry II;3
+54;CHEM 340;Inorganic Chemistry Laboratory;3
+54;CHEM 342;Inorganic Chemistry II;3
+54;HUM 112;Cultures Civilizations and Ideas II;3
+54;CHEM 399;Summer Practice;
+54;CHEM 450;Applied Quantum Chemistry;3
+54;CHEM 461;Fundamentals of Biochemistry;3
+54;CHEM 491;Senior Project I;4
+54;CHEM 422;Introduction to Statistical Thermodynamics;3
+54;CHEM 492;Senior Project II;4
+55;CHEM 599;Master's Thesis;
+55;GE 500;Research Methods and Academic Publication Ethics;
+55;GE 590;Academic Practices;
+56;CHEM 699;Ph.D. Dissertation;
+56;GE 500;Research Methods and Academic Publication Ethics;
+56;GE 690;Academic Practices;
+57;ENG 101;English and Composition I;3
+57;GE 100;Orientation;1
+57;MATH 101;Calculus I;4
+57;MATH 123;Abstract Mathematics I;4
+57;PHYS 101;General Physics I;4
+57;TURK 101;Turkish I;2
+57;ENG 102;English and Composition II;3
+57;MATH 102;Calculus II;4
+57;MATH 124;Abstract Mathematics II;4
+57;MBG 110;Introduction to Modern Biology;3
+57;PHYS 102;General Physics II;4
+57;TURK 102;Turkish II;2
+57;CS 113;Introduction to Computing;4
+57;GE 250;Collegiate Activities Program I;
+57;HIST 200;History of Turkey;4
+57;MATH 213;Advanced Calculus I;4
+57;MATH 223;Linear Algebra I;3
+57;MATH 240;Differential Equations;3
+57;CS 114;Introduction to Programming;4
+57;GE 251;Collegiate Activities Program II;1
+57;MATH 210;Finite and Discrete Mathematics;3
+57;MATH 214;Advanced Calculus II;4
+57;MATH 224;Linear Algebra II;3
+57;MATH 253;Introduction to Number Theory;3
+57;HUM 111;Cultures Civilizations and Ideas I;3
+57;HUM 112;Cultures Civilizations and Ideas II;3
+57;MATH 399;Summer Practice;
+58;GE 500;Research Methods and Academic Publication Ethics;
+58;GE 590;Academic Practices;
+58;MATH 599;Master's Thesis;
+59;GE 500;Research Methods and Academic Publication Ethics;
+59;GE 690;Academic Practices;
+59;MATH 699;Ph.D. Dissertation;
+60;CHEM 101;Principles of Chemistry I;4
+60;ENG 101;English and Composition I;3
+60;GE 100;Orientation;1
+60;MATH 101;Calculus I;4
+60;MBG 101;Biology I;4
+60;TURK 101;Turkish I;2
+60;CHEM 102;Principles of Chemistry II;4
+60;ENG 102;English and Composition II;3
+60;MATH 102;Calculus II;4
+60;MBG 102;Biology II;4
+60;TURK 102;Turkish II;2
+60;CHEM 233;Principles of Organic Chemistry I;3
+60;CS 113;Introduction to Computing;4
+60;GE 250;Collegiate Activities Program I;
+60;HIST 200;History of Turkey;4
+60;MBG 210;Genetics;4
+60;PHYS 101;General Physics I;4
+60;CS 114;Introduction to Programming;4
+60;GE 251;Collegiate Activities Program II;1
+60;MATH 262;Statistical Methodology;3
+60;MBG 223;Molecular Genetics;4
+60;PHYS 102;General Physics II;4
+60;HUM 111;Cultures Civilizations and Ideas I;3
+60;MBG 291;Summer Practice I;
+60;MBG 301;Molecular Biology of the Cell I;3
+60;MBG 311;Biochemistry I;4
+60;MBG 324;Molecular Biology of the Gene;4
+60;MBG 326;Introduction to Bioinformatics;3
+60;HUM 112;Cultures Civilizations and Ideas II;3
+60;MBG 302;Molecular Biology of the Cell II;4
+60;MBG 312;Biochemistry II;3
+60;MBG 316;Physiology;3
+60;MBG 338;Microbiology;4
+60;MBG 391;Summer Practice II;
+60;MBG 416;Science and Ethics;3
+60;MBG 491;Senior Project I;3
+60;MBG 418;Genomics;4
+61;GE 500;Research Methods and Academic Publication Ethics;
+61;GE 590;Academic Practices;
+61;MBG 502;Advanced Cellular Biology;3
+61;MBG 503;Advanced Molecular Biology;3
+61;MBG 505;Advanced Molecular Genetics;3
+61;MBG 599;Master's Thesis;
+62;GE 500;Research Methods and Academic Publication Ethics;
+62;GE 690;Academic Practices;
+62;MBG 601;Human Genetics;3
+62;MBG 602;Molecular and Cellular Immunology;3
+62;MBG 603;Molecular Bases of Cancer;3
+62;MBG 699;Ph.D. Dissertation;
+63;CHEM 101;Principles of Chemistry I;4
+63;ENG 101;English and Composition I;3
+63;GE 100;Orientation;1
+63;MATH 101;Calculus I;4
+63;PHYS 101;General Physics I;4
+63;PHYS 120;Orientation for Physics Majors;1
+63;TURK 101;Turkish I;2
+63;CS 115;Introduction to Programming in Python;4
+63;ENG 102;English and Composition II;3
+63;MATH 102;Calculus II;4
+63;PHYS 102;General Physics II;4
+63;PHYS 124;Freshman Project;2
+63;TURK 102;Turkish II;2
+63;CHEM 201;Materials Science and Technology;3
+63;GE 250;Collegiate Activities Program I;
+63;HIST 200;History of Turkey;4
+63;MATH 241;Engineering Mathematics I;4
+63;MBG 110;Introduction to Modern Biology;3
+63;PHYS 211;Waves, Optics and Thermodynamics;4
+63;GE 251;Collegiate Activities Program II;1
+63;MATH 242;Engineering Mathematics II;4
+63;PHYS 212;Modern Physics;4
+63;PHYS 218;Analytical Mechanics;3
+63;PHYS 242;Advanced Calculus for Applications in Physics;3
+63;HUM 111;Cultures Civilizations and Ideas I;3
+63;PHYS 291;Summer Practice;
+63;PHYS 315;Electromagnetic Theory I;3
+63;PHYS 325;Quantum Mechanics I;3
+63;PHYS 371;Numerical Methods in Physics;3
+63;HUM 112;Cultures Civilizations and Ideas II;3
+63;PHYS 334;Statistical Physics;3
+63;PHYS 374;Experimental Methods of Physics;4
+63;PHYS 491;Senior Project I;4
+63;PHYS 492;Senior Project II;4
+64;GE 500;Research Methods and Academic Publication Ethics;
+64;GE 590;Academic Practices;
+64;PHYS 541;Electromagnetic Theory I;3
+64;PHYS 542;Electromagnetic Theory II;3
+64;PHYS 543;Advanced Quantum Mechanics I;3
+64;PHYS 599;Master's Thesis;
+65;GE 500;Research Methods and Academic Publication Ethics;
+65;GE 690;Academic Practices;
+65;PHYS 544;Advanced Quantum Mechanics II;3
+65;PHYS 552;Statistical Physics;3
+65;PHYS 580;Experimental Methods in Applied Physics;3
+65;PHYS 699;Ph.D. Dissertation;
+66;ACC 173;Computer Applications I;3
+66;ACC 175;Mathematics I;3
+66;BF 161;Economics I;3
+66;ENG 101;English and Composition I;3
+66;GE 100;Orientation;1
+66;SFL 101;French I;3
+66;TURK 101;Turkish I;2
+66;ACC 170;Computer Applications II;3
+66;ACC 178;Mathematics II;3
+66;BF 162;Economics II;3
+66;ENG 102;English and Composition II;3
+66;SFL 102;French II;3
+66;TURK 102;Turkish II;2
+66;SFL 103;French III;3
+66;ACC 253;Accounting I;3
+66;ACC 271;Data Structures and Object Oriented Programming I;3
+66;BF 271;Applications in Probability and Statistics I;3
+66;GE 250;Collegiate Activities Program I;
+66;HIST 200;History of Turkey;4
+66;SFL 201;French IV;3
+66;SFL 207;Interpersonal Communication in Business Settings;3
+66;ACC 258;Accounting II;3
+66;ACC 272;Data Structures and Object Oriented Programming II;3
+66;BF 276;Applications in Probability and Statistics II;3
+66;GE 251;Collegiate Activities Program II;1
+66;SFL 202;French V;3
+66;SFL 208;Written Business Communication;3
+66;ACC 391;Summer Practice;
+66;BF 383;Ethics, Responsibility and Citizenship;3
+66;LAW 313;Business Law;3
+66;SFL 307;English in Business Communication;3
+66;SFL 335;French in Financial Communication I;3
+66;ACC 360;Cost Accounting and Computerized Accounting Applications;3
+66;ACC 374;Information Systems Security and Information Distortion (in French);3
+66;LAW 416;Introduction to Contract Law;3
+66;SFL 308;English in Organizational Communication;3
+66;SFL 336;French in Financial Communication II;3
+66;SFL 490 *;Common European Framework of Reference Level B1;
+66;ACC 425;Commercial Law;3
+66;ACC 463;International Financial Reporting Standards (IFRS);3
+66;ACC 473;Management Information Systems (in French);3
+66;ACC 491;Summer Practice;
+66;SFL 405;Intercultural Business Communication;3
+66;SFL 431;French in Corporate Communication;3
+66;ACC 454;International Auditing;3
+66;ACC 464;Taxation and Turkish Tax Law;3
+66;ACC 476;Graduation Project in Accounting Information Systems and Auditing;3
+66;SFL 406;Integrated Marketing Communications (IMC);3
+66;SFL 432;Organizational Communication in French;3
+67;ACC 175;Mathematics I;3
+67;BF 161;Economics I;3
+67;BF 173;Computer Applications I;3
+67;ENG 101;English and Composition I;3
+67;GE 100;Orientation;1
+67;SFL 101;French I;3
+67;TURK 101;Turkish I;2
+67;ACC 178;Mathematics II;3
+67;BF 162;Economics II;3
+67;BF 174;Computer Applications II;3
+67;ENG 102;English and Composition II;3
+67;SFL 102;French II;3
+67;TURK 102;Turkish II;2
+67;ACC 253;Accounting I;3
+67;BF 271;Applications in Probability and Statistics I;3
+67;GE 250;Collegiate Activities Program I;
+67;SFL 103;French III;3
+67;HIST 200;History of Turkey;4
+67;SFL 201;French IV;3
+67;SFL 207;Interpersonal Communication in Business Settings;3
+67;ACC 258;Accounting II;3
+67;BF 264;Elements of Money and Banking I;3
+67;BF 276;Applications in Probability and Statistics II;3
+67;GE 251;Collegiate Activities Program II;1
+67;SFL 202;French V;3
+67;SFL 208;Written Business Communication;3
+67;ACC 425;Commercial Law;3
+67;BF 365;Elements of Money and Banking II;3
+67;BF 383;Ethics, Responsibility and Citizenship;3
+67;BF 391;Summer Practice;
+67;SFL 307;English in Business Communication;3
+67;SFL 335;French in Financial Communication I;3
+67;BF 362;Banking Operations;3
+67;BF 372;Computerized Financial Applications;3
+67;BF 384;Introduction to Financial Econometrics;3
+67;SFL 308;English in Organizational Communication;3
+67;SFL 336;French in Financial Communication II;3
+67;SFL 490;Common European Framework of Reference Level B1;
+67;BF 469;Banking Law;3
+67;BF 473;Computerized Brokerage and Dealer Operations;3
+67;BF 491;Summer Practice;
+67;SFL 405;Intercultural Business Communication;3
+67;SFL 431;French in Corporate Communication;3
+67;BF 422;Graduation Project in Banking and Finance;3
+67;BF 488;Computerized Insurance Services and Operations;3
+67;LAW 416;Introduction to Contract Law;3
+67;SFL 406;Integrated Marketing Communications (IMC);3
+67;SFL 432;Organizational Communication in French;3
+68;BIM 100;Introductory Mathematics;2
+68;BIM 103;Keyboarding;3
+68;ECON 105;Principles of Economics I;3
+68;ENG 101;English and Composition I;3
+68;GE 100;Orientation;1
+68;SOC 101;Introduction to Sociology;3
+68;TURK 101;Turkish I;2
+68;BIM 107;Calculus for Business Studies;3
+68;BIM 121;Business Computer Applications I;3
+68;ECON 106;Principles of Economics II;3
+68;ENG 102;English and Composition II;3
+68;PSYC 100;Introduction to Psychology;3
+68;TURK 102;Turkish II;2
+68;BIM 122;Business Computer Applications II;3
+68;BIM 201;Problem Solving and Programming;4
+68;BIM 205;Principles of Accounting;3
+68;BIM 223;Business Communications;3
+68;BIM 418;Management Information Systems;3
+68;GE 250;Collegiate Activities Program I;
+68;BIM 215;Database Management Systems;4
+68;BIM 224;Managerial Communications;3
+68;BIM 260;Financial Statement Analysis;3
+68;GE 251;Collegiate Activities Program II;1
+68;HIST 200;History of Turkey;4
+68;BIM 108;Business Statistics;3
+68;BIM 206;Managerial Accounting;3
+68;BIM 242;Web Site Design;4
+68;BIM 390;Summer Internship;
+68;LAW 313;Business Law;3
+68;BIM 310;Semester Internship;9
+68;BIM 261;Corporate Finance;4
+68;BIM 341;Web Based Application Development;4
+68;BIM 375;Public Relations Management;4
+68;BIM 316;Information Systems Analysis;3
+68;BIM 417;Senior Seminars in Business Information Management;3
+68;BIM 492;Strategic Management;4
+69;CTIS 151;Introduction to Programming;5
+69;CTIS 163;Discrete Mathematics;4
+69;CTIS 165;Fundamentals of Information Systems;3
+69;ENG 101;English and Composition I;3
+69;GE 100;Orientation;1
+69;TURK 101;Turkish I;2
+69;CTIS 152;Algorithms and Data Structures;5
+69;CTIS 164;Technical Mathematics with Programming;4
+69;CTIS 166;Information Technologies;3
+69;ENG 102;English and Composition II;3
+69;THM 105;Introduction to Business;3
+69;TURK 102;Turkish II;2
+69;CTIS 221;Object Oriented Programming;5
+69;CTIS 255;Web Technologies I;3
+69;CTIS 259;Database Management Systems and Applications;5
+69;CTIS 261;Computer Networks I;4
+69;ECON 103;Principles of Economics;3
+69;GE 250;Collegiate Activities Program I;
+69;CTIS 222;Object Oriented Analysis and Design;4
+69;CTIS 256;Web Technologies II;3
+69;CTIS 262;Computer Networks II;4
+69;CTIS 264;Computer Algorithms;3
+69;GE 251;Collegiate Activities Program II;1
+69;HIST 200;History of Turkey;4
+69;CTIS 290;Summer Internship;
+69;CTIS 359;Principles of Software Engineering;3
+69;CTIS 363;Ethical and Social Issues in Information Systems;3
+69;CTIS 365;Applied Data Analysis;4
+69;CTIS 487;Mobile Application Development;4
+69;ELS 301;Advanced Communication Skills;3
+69;CTIS 310;Semester Internship;9
+69;CTIS 411;Senior Project I;2
+69;CTIS 417;Software Design Patterns;3
+69;CTIS 496;Computer and Network Security;3
+69;CTIS 456;Senior Project II;4
+70;BIM 100;Introductory Mathematics;2
+70;BIM 191;Business Computer Applications;3
+70;ENG 101;English and Composition I;3
+70;GE 100;Orientation;1
+70;THM 105;Introduction to Business;3
+70;THM 163;Dynamics of Tourism;3
+70;TURK 101;Turkish I;2
+70;BIM 107;Calculus for Business Studies;3
+70;BIM 205;Principles of Accounting;3
+70;ECON 105;Principles of Economics I;3
+70;ENG 102;English and Composition II;3
+70;THM 166;Health Studies;1
+70;TURK 102;Turkish II;2
+70;BIM 282;Hospitality Industry Computerization;3
+70;ECON 106;Principles of Economics II;3
+70;GE 250;Collegiate Activities Program I;
+70;THM 168;Nutrition and Sanitation;2
+70;THM 202;Principles of Management;3
+70;THM 243;Rooms Division Management;3
+70;THM 245;Purchasing and Cost Analysis;3
+70;BIM 108;Business Statistics;3
+70;BIM 381;Food and Beverage Computer Applications;3
+70;GE 251;Collegiate Activities Program II;1
+70;HIST 200;History of Turkey;4
+70;THM 244;Food Production Techniques;3
+70;THM 246;Restaurant Service;3
+70;THM 247;Food and Beverage Management;3
+70;THM 300;Summer Internship;
+70;THM 301;Human Resources Management;3
+70;THM 309;Principles of Marketing;3
+70;THM 313;Hospitality Management Accounting;3
+70;THM 323;International Cuisines;3
+70;THM 310;Semester Internship;9
+70;THM 326;Tourism Policies and Sustainability;3
+70;THM 348;Service Operations Management;3
+70;THM 403;Organizational Behavior;3
+70;THM 409;Tourism Law;3
+70;THM 415;Finance;3
+70;THM 418;Senior Project;3
+70;THM 419;Tourism Management Applications;3
+70;THM 420;Seminars on Tourism Industry;1
+70;THM 423;Tourism Economics;3
+71;EEPS 501;Economic Analysis of Energy Issues;3
+71;EEPS 502;Empirical Methods in Energy Economics;3
+71;EEPS 503;Energy Policy Analysis;3
+71;EEPS 506;Energy Security and Foreign Policy Analysis;3
+71;EEPS 509;Pre-Thesis Seminar;
+71;EEPS 599;Master's Thesis;
+71;GE 500;Research Methods and Academic Publication Ethics;
+72;GE 500;Research Methods and Academic Publication Ethics;
+72;GE 690;Academic Practices;
+72;MSN 517;Nanoscience and Nanotechnology I;3
+72;MSN 518;Nanoscience and Nanotechnology II;3
+72;MSN 699;Ph.D. Thesis;
+73;GE 500;Research Methods and Academic Publication Ethics;
+73;GE 590;Academic Practices;
+73;NSC 510;Sensory and Motor Systems Neuroscience;3
+73;NSC 511;Cellular, Molecular and Developmental Neuroscience;3
+73;NSC 599;Neuroscience Master's Thesis;
+74;GE 500;Research Methods and Academic Publication Ethics;
+74;GE 690;Academic Practices;
+74;NSC 510;Sensory and Motor Systems Neuroscience;3
+74;NSC 511;Cellular, Molecular and Developmental Neuroscience;3
+74;NSC 699;Neuroscience Ph.D. Dissertation;
